@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Register And Login Test">
+    <test verbose="2" preserve-order="true" name="C:/Users/House/IdeaProjects/30-05-2021">
+        <classes>
+            <class name="automationpractice.tests.registration.RegistrationTest">
+                <methods>
+                    <include name="gotoLandingPage"/>
+                    <include name="click0nLoginLink"/>
+                    <include name="goToAccountLoginPage"/>
+                    <include name="enterRegistrationEmailAddress"/>
+                    <include name="clickOnCreateAnAccountBtn"/>
+                    <include name="enterYourPersonalInfomationDetails"/>
+                    <include name="enterYourAddressDetails"/>
+                    <include name="clickOnRegisterBtn"/>
+                    <include name="goToAccountPage"/>
+                    <include name="clickOnLogoutLink"/>
+                    <include name="backToHomePage"/>
+                </methods>
+            </class>
+
+            <class name="automationpractice.tests.Login.LoginTest">
+                <methods>
+                    <include name="navigateToHomePage"/>
+                    <include name="click0nLoginLink"/>
+                    <include name="goToAccountLoginPage"/>
+                    <include name="loginToApplication"/>
+                    <include name="goToAccountPage"/>
+                    <include name="clickOnSignOutLink"/>
+                    <include name="backToHomePage"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

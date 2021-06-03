@@ -1,0 +1,1875 @@
+2021-06-02 05:06:585 INFO  TestBase:130 - Initialize Web driver: 1595938139
+2021-06-02 05:06:614 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 05:06:617 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 05:06:674 INFO  WaitHelper:105 - waiting for page to load for : SECONDS seconds
+2021-06-02 05:06:760 INFO  WaitHelper:107 - page is loaded........
+2021-06-02 05:06:298 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 05:06:309 INFO  HomePage:25 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 05:06:10 INFO  Util:147 - Actual Text From Web Application UI   --> : http://automationpractice.com/index.php
+2021-06-02 05:06:12 INFO  Util:148 - Expected Text From Web Application UI --> : http://automationpractice.com/index.php
+2021-06-02 05:06:13 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 05:06:60 INFO  Util:147 - Actual Text From Web Application UI   --> : My Store
+2021-06-02 05:06:61 INFO  Util:148 - Expected Text From Web Application UI --> : My Store
+2021-06-02 05:06:62 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 05:06:599 INFO  HeaderNavPage:42 - Logo is displayed = true
+2021-06-02 05:06:600 INFO  HeaderNavPage:43 - ==================================================
+2021-06-02 05:06:602 INFO  HeaderNavPage:44 - Signin Link is Enabled 
+2021-06-02 05:06:608 INFO  HeaderNavPage:45 - ==================================================
+2021-06-02 05:06:63 INFO  TestBase:83 - **************navigateToHomePage*****Finished*****
+2021-06-02 05:06:603 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 05:06:565 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-02 05:06:476 INFO  TestBase:83 - **************click0nLoginLink*****Finished*****
+2021-06-02 05:06:901 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 05:06:414 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 05:06:830 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-02 05:06:28 INFO  LoginPage:101 - Authentication Txt as => AUTHENTICATION
+2021-06-02 05:06:249 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 05:06:687 INFO  LoginPage:107 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 05:06:985 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 05:06:626 INFO  LoginPage:112 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 05:06:146 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 05:06:218 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 05:06:769 INFO  TestBase:83 - **************goToLoginPage*****Finished*****
+2021-06-02 05:06:55 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 05:06:55 INFO  LoginPage:58 - Entering email address as => info@wujames.com
+2021-06-02 05:06:160 INFO  LoginPage:63 - Entering password as => Manchester1
+2021-06-02 05:06:78 INFO  LoginPage:69 - Clicking on submit button as => Sign in
+2021-06-02 05:06:80 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 05:06:716 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 05:06:970 INFO  TestBase:83 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 05:06:928 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 05:06:293 INFO  AccountPage:100 - User Info Link displayed as => Data StudioPlace
+2021-06-02 05:06:352 INFO  AccountPage:36 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 05:06:753 INFO  AccountPage:45 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 05:06:152 INFO  AccountPage:54 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 05:06:594 INFO  AccountPage:63 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 05:06:37 INFO  AccountPage:72 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 05:06:356 INFO  AccountPage:90 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 05:06:885 INFO  AccountPage:108 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 05:06:885 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 05:06:983 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 05:06:720 INFO  TestBase:83 - **************goToAccountPage*****Finished*****
+2021-06-02 05:06:111 INFO  TestBase:65 - *****clickOnSignOutLink***** TestStarted *****
+2021-06-02 05:06:784 INFO  HeaderNavPage:66 - Clicking on Sign out Link  => Sign out
+2021-06-02 05:06:674 INFO  TestBase:83 - **************clickOnSignOutLink*****Finished*****
+2021-06-02 05:06:251 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-02 05:06:740 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 05:06:702 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-02 05:06:940 INFO  LoginPage:101 - Authentication Txt as => AUTHENTICATION
+2021-06-02 05:06:242 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 05:06:806 INFO  LoginPage:107 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 05:06:99 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 05:06:607 INFO  LoginPage:112 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 05:06:03 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 05:06:85 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 05:06:464 INFO  TestBase:83 - **************backToHomePage*****Finished*****
+2021-06-02 06:06:50 INFO  TestBase:130 - Initialize Web driver: 1370074462
+2021-06-02 06:06:121 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 06:06:122 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 06:06:203 INFO  WaitHelper:105 - waiting for page to load for : SECONDS seconds
+2021-06-02 06:06:244 INFO  WaitHelper:107 - page is loaded........
+2021-06-02 06:06:866 INFO  TestBase:65 - *****register***** TestStarted *****
+2021-06-02 06:06:106 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-02 06:06:609 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 06:06:957 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-02 06:06:73 INFO  LoginPage:101 - Authentication Txt as => AUTHENTICATION
+2021-06-02 06:06:211 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 06:06:427 INFO  LoginPage:107 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 06:06:574 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 06:06:913 INFO  LoginPage:112 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 06:06:238 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 06:06:320 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:548 INFO  LoginPage:86 - Entering registration email as => 1622585136548@gmail.com
+2021-06-02 06:06:259 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:440 INFO  LoginPage:93 - click On Create An Account Btn
+2021-06-02 06:06:859 INFO  RegistrationPage:54 - Checking Mr. Radio Btn as => Mr.
+2021-06-02 06:06:168 INFO  RegistrationPage:67 - Entering firstName as => FirstName
+2021-06-02 06:06:127 INFO  RegistrationPage:74 - Entering LastName as => LastName
+2021-06-02 06:06:956 INFO  RegistrationPage:84 - Entering password as => Password
+2021-06-02 06:06:527 INFO  RegistrationPage:96 - Day DropDown is enabled => true
+2021-06-02 06:06:527 INFO  RegistrationPage:97 - Selecting date as => 10
+2021-06-02 06:06:18 INFO  RegistrationPage:104 - Month DropDown is enabled as =>  true
+2021-06-02 06:06:402 INFO  RegistrationPage:114 - Year DropDown is enabled as => true
+2021-06-02 06:06:249 INFO  RegistrationPage:132 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-02 06:06:527 INFO  RegistrationPage:139 - Checked on SpecialOffer => true
+2021-06-02 06:06:826 INFO  RegistrationPage:160 - Entering Your Address FirstName as => FirstName
+2021-06-02 06:06:107 INFO  RegistrationPage:163 - Clearing Your Address FirstName field
+2021-06-02 06:06:509 INFO  RegistrationPage:169 - Entering Your Address LastName as => LastName
+2021-06-02 06:06:471 INFO  RegistrationPage:177 - Entering Your Address Company as => DataPalace Studio
+2021-06-02 06:06:343 INFO  RegistrationPage:182 - Entering Address as => 123 CovidStreet Avenue
+2021-06-02 06:06:824 INFO  RegistrationPage:194 - Entering address2 as => 23rd District
+2021-06-02 06:06:447 INFO  RegistrationPage:199 - Entering your Address City as => Miami
+2021-06-02 06:06:904 INFO  RegistrationPage:205 - Entering Your Address State City as => Florida
+2021-06-02 06:06:561 INFO  RegistrationPage:211 - Entering Your Address PostCode as => 77077
+2021-06-02 06:06:301 INFO  RegistrationPage:218 - Country DropDown is enabled as =>  true
+2021-06-02 06:06:303 INFO  RegistrationPage:219 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-02 06:06:616 INFO  RegistrationPage:226 - Entering additionalInformation as => Deliver at the Gate
+2021-06-02 06:06:501 INFO  RegistrationPage:237 - Entering homePhone => 213-213-2444
+2021-06-02 06:06:92 INFO  RegistrationPage:242 - Entering mobilePhone as => 213-213-2555
+2021-06-02 06:06:950 INFO  RegistrationPage:249 - Entering Address Alias as => My Miami Address
+2021-06-02 06:06:46 INFO  RegistrationPage:257 - *Required field is displayed as => true
+2021-06-02 06:06:63 INFO  AccountPage:100 - User Info Link displayed as => FirstName LastName
+2021-06-02 06:06:299 INFO  AccountPage:36 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:530 INFO  AccountPage:45 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 06:06:805 INFO  AccountPage:54 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 06:06:21 INFO  AccountPage:63 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 06:06:259 INFO  AccountPage:72 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 06:06:475 INFO  AccountPage:90 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 06:06:706 INFO  AccountPage:108 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:706 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:680 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:13 INFO  HeaderNavPage:66 - Clicking on Sign out Link  => Sign out
+2021-06-02 06:06:936 INFO  TestBase:83 - **************register*****Finished*****
+2021-06-02 06:06:93 INFO  TestBase:130 - Initialize Web driver: 1443055846
+2021-06-02 06:06:121 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 06:06:124 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 06:06:177 INFO  WaitHelper:105 - waiting for page to load for : SECONDS seconds
+2021-06-02 06:06:228 INFO  WaitHelper:107 - page is loaded........
+2021-06-02 06:06:389 INFO  TestBase:65 - *****goToHomePage***** TestStarted *****
+2021-06-02 06:06:416 INFO  HomePage:25 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 06:06:859 INFO  Util:147 - Actual Text From Web Application UI   --> : http://automationpractice.com/index.php
+2021-06-02 06:06:860 INFO  Util:148 - Expected Text From Web Application UI --> : http://automationpractice.com/index.php
+2021-06-02 06:06:861 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 06:06:888 INFO  Util:147 - Actual Text From Web Application UI   --> : My Store
+2021-06-02 06:06:890 INFO  Util:148 - Expected Text From Web Application UI --> : My Store
+2021-06-02 06:06:890 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 06:06:457 INFO  HeaderNavPage:42 - Logo is displayed = true
+2021-06-02 06:06:458 INFO  HeaderNavPage:43 - ==================================================
+2021-06-02 06:06:459 INFO  HeaderNavPage:44 - Signin Link is Enabled 
+2021-06-02 06:06:463 INFO  HeaderNavPage:45 - ==================================================
+2021-06-02 06:06:682 INFO  TestBase:83 - **************goToHomePage*****Finished*****
+2021-06-02 06:06:672 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 06:06:747 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-02 06:06:310 INFO  TestBase:83 - **************click0nLoginLink*****Finished*****
+2021-06-02 06:06:646 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 06:06:09 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 06:06:352 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-02 06:06:499 INFO  LoginPage:101 - Authentication Txt as => AUTHENTICATION
+2021-06-02 06:06:709 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 06:06:958 INFO  LoginPage:107 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 06:06:121 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 06:06:483 INFO  LoginPage:112 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 06:06:707 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 06:06:760 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:825 INFO  TestBase:83 - **************goToLoginPage*****Finished*****
+2021-06-02 06:06:978 INFO  TestBase:65 - *****enterRegistrationEmailAddress***** TestStarted *****
+2021-06-02 06:06:978 INFO  LoginPage:86 - Entering registration email as => 1622585428978@gmail.com
+2021-06-02 06:06:610 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:594 INFO  TestBase:83 - **************enterRegistrationEmailAddress*****Finished*****
+2021-06-02 06:06:741 INFO  TestBase:65 - *****clickOnCreateAnAccountBtn***** TestStarted *****
+2021-06-02 06:06:747 INFO  LoginPage:93 - click On Create An Account Btn
+2021-06-02 06:06:808 INFO  TestBase:83 - **************clickOnCreateAnAccountBtn*****Finished*****
+2021-06-02 06:06:71 INFO  TestBase:65 - *****goToRegistrationPage***** TestStarted *****
+2021-06-02 06:06:292 INFO  RegistrationPage:39 - CREATE AN ACCOUNT is => true
+2021-06-02 06:06:818 INFO  RegistrationPage:46 - Your Personal Information Section Txt is displayed as => true
+2021-06-02 06:06:87 INFO  RegistrationPage:156 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-02 06:06:482 INFO  TestBase:83 - **************goToRegistrationPage*****Finished*****
+2021-06-02 06:06:663 INFO  TestBase:65 - *****enterUserPersonalInfomationDetails***** TestStarted *****
+2021-06-02 06:06:876 INFO  RegistrationPage:54 - Checking Mr. Radio Btn as => Mr.
+2021-06-02 06:06:117 INFO  RegistrationPage:67 - Entering firstName as => FirstName
+2021-06-02 06:06:785 INFO  RegistrationPage:74 - Entering LastName as => LastName
+2021-06-02 06:06:618 INFO  RegistrationPage:84 - Entering password as => Password
+2021-06-02 06:06:493 INFO  RegistrationPage:96 - Day DropDown is enabled => true
+2021-06-02 06:06:494 INFO  RegistrationPage:97 - Selecting date as => 10
+2021-06-02 06:06:441 INFO  RegistrationPage:104 - Month DropDown is enabled as =>  true
+2021-06-02 06:06:555 INFO  RegistrationPage:114 - Year DropDown is enabled as => true
+2021-06-02 06:06:265 INFO  RegistrationPage:132 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-02 06:06:466 INFO  RegistrationPage:139 - Checked on SpecialOffer => true
+2021-06-02 06:06:161 INFO  TestBase:83 - **************enterUserPersonalInfomationDetails*****Finished*****
+2021-06-02 06:06:314 INFO  TestBase:65 - *****enterUserAddressDetails***** TestStarted *****
+2021-06-02 06:06:314 INFO  RegistrationPage:160 - Entering Your Address FirstName as => FirstName
+2021-06-02 06:06:595 INFO  RegistrationPage:163 - Clearing Your Address FirstName field
+2021-06-02 06:06:950 INFO  RegistrationPage:169 - Entering Your Address LastName as => LastName
+2021-06-02 06:06:769 INFO  RegistrationPage:177 - Entering Your Address Company as => DataPalace Studio
+2021-06-02 06:06:128 INFO  RegistrationPage:182 - Entering Address as => 123 CovidStreet Avenue
+2021-06-02 06:06:686 INFO  RegistrationPage:194 - Entering address2 as => 23rd District
+2021-06-02 06:06:490 INFO  RegistrationPage:199 - Entering your Address City as => Miami
+2021-06-02 06:06:961 INFO  RegistrationPage:205 - Entering Your Address State City as => Florida
+2021-06-02 06:06:595 INFO  RegistrationPage:211 - Entering Your Address PostCode as => 77077
+2021-06-02 06:06:372 INFO  RegistrationPage:218 - Country DropDown is enabled as =>  true
+2021-06-02 06:06:372 INFO  RegistrationPage:219 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-02 06:06:603 INFO  RegistrationPage:226 - Entering additionalInformation as => Deliver at the Gate
+2021-06-02 06:06:82 INFO  RegistrationPage:237 - Entering homePhone => 213-213-2444
+2021-06-02 06:06:618 INFO  RegistrationPage:242 - Entering mobilePhone as => 213-213-2555
+2021-06-02 06:06:265 INFO  RegistrationPage:249 - Entering Address Alias as => My Miami Address
+2021-06-02 06:06:61 INFO  TestBase:83 - **************enterUserAddressDetails*****Finished*****
+2021-06-02 06:06:290 INFO  TestBase:65 - *****clickOnRegisterBtn***** TestStarted *****
+2021-06-02 06:06:644 INFO  RegistrationPage:257 - *Required field is displayed as => true
+2021-06-02 06:06:172 INFO  TestBase:83 - **************clickOnRegisterBtn*****Finished*****
+2021-06-02 06:06:436 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 06:06:700 INFO  AccountPage:100 - User Info Link displayed as => FirstName LastName
+2021-06-02 06:06:999 INFO  AccountPage:36 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:256 INFO  AccountPage:45 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 06:06:534 INFO  AccountPage:54 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 06:06:771 INFO  AccountPage:63 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 06:06:37 INFO  AccountPage:72 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 06:06:321 INFO  AccountPage:90 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 06:06:492 INFO  AccountPage:108 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:494 INFO  TestBase:165 - capturing ui navigation screen...
+2021-06-02 06:06:385 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 06:06:904 INFO  TestBase:83 - **************goToAccountPage*****Finished*****
+2021-06-02 06:06:192 INFO  TestBase:65 - *****clickOnLogoutLink***** TestStarted *****
+2021-06-02 06:06:490 INFO  HeaderNavPage:66 - Clicking on Sign out Link  => Sign out
+2021-06-02 06:06:74 INFO  TestBase:83 - **************clickOnLogoutLink*****Finished*****
+2021-06-02 06:06:296 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-02 06:06:304 INFO  HomePage:25 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 06:06:646 INFO  Util:147 - Actual Text From Web Application UI   --> : http://automationpractice.com/index.php
+2021-06-02 06:06:647 INFO  Util:148 - Expected Text From Web Application UI --> : http://automationpractice.com/index.php
+2021-06-02 06:06:648 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 06:06:150 INFO  Util:147 - Actual Text From Web Application UI   --> : My Store
+2021-06-02 06:06:151 INFO  Util:148 - Expected Text From Web Application UI --> : My Store
+2021-06-02 06:06:152 INFO  Util:149 - ### Verification Contains !!!
+2021-06-02 06:06:292 INFO  HeaderNavPage:42 - Logo is displayed = true
+2021-06-02 06:06:293 INFO  HeaderNavPage:43 - ==================================================
+2021-06-02 06:06:293 INFO  HeaderNavPage:44 - Signin Link is Enabled 
+2021-06-02 06:06:294 INFO  HeaderNavPage:45 - ==================================================
+2021-06-02 06:06:620 INFO  TestBase:83 - **************backToHomePage*****Finished*****
+2021-06-02 13:06:108 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 13:06:131 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 13:06:133 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 13:06:183 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 13:06:195 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 13:06:255 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 13:06:257 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 13:06:989 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 13:06:990 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 13:06:579 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 13:06:372 INFO  TestBase:128 - Initialize Web driver: 596706728
+2021-06-02 13:06:448 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 13:06:449 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 13:06:495 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 13:06:539 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 13:06:546 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 13:06:546 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 13:06:783 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 13:06:784 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 13:06:51 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 14:06:233 INFO  TestBase:128 - Initialize Web driver: 596706728
+2021-06-02 14:06:253 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 14:06:254 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 14:06:352 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 14:06:389 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 14:06:585 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 14:06:587 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 14:06:182 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 14:06:183 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 14:06:340 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 14:06:223 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 14:06:491 INFO  HeaderNavPage:56 - Clicked on Signin Link => Sign in
+2021-06-02 14:06:20 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-02 14:06:335 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 14:06:601 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 14:06:870 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 14:06:993 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 14:06:124 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 14:06:294 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 14:06:425 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 14:06:742 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 14:06:901 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 14:06:946 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:871 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-02 14:06:07 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 14:06:07 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-02 14:06:388 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-02 14:06:868 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-02 14:06:870 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:997 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:555 INFO  TestBase:81 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 14:06:725 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 14:06:303 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 14:06:336 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 14:06:338 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 14:06:419 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 14:06:444 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 14:06:472 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 14:06:480 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 14:06:945 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 14:06:947 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 14:06:345 INFO  HomePage:46 - Page Logo is Displayed =>  true
+2021-06-02 14:06:390 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 14:06:23 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 14:06:709 INFO  HeaderNavPage:56 - Clicked on Signin Link => Sign in
+2021-06-02 14:06:195 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-02 14:06:538 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 14:06:782 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 14:06:14 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 14:06:152 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 14:06:284 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 14:06:472 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 14:06:666 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 14:06:982 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 14:06:182 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 14:06:236 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:169 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-02 14:06:301 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 14:06:301 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-02 14:06:697 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-02 14:06:231 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-02 14:06:232 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:319 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 14:06:968 INFO  TestBase:81 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 14:06:85 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 14:06:607 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-02 16:06:233 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 16:06:271 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 16:06:274 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 16:06:325 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 16:06:387 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 16:06:536 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 16:06:536 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 16:06:883 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 16:06:964 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 16:06:964 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 16:06:05 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 16:06:15 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 16:06:951 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 16:06:951 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 16:06:812 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 16:06:813 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 16:06:279 INFO  HomePage:46 - Page Logo is Displayed =>  true
+2021-06-02 16:06:331 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 16:06:367 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 16:06:207 INFO  HeaderNavPage:56 - Clicked on Signin Link => Sign in
+2021-06-02 16:06:747 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-02 16:06:965 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 16:06:291 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 16:06:545 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 16:06:661 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 16:06:793 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 16:06:984 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 16:06:126 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 16:06:489 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 16:06:796 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 16:06:975 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 16:06:150 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-02 16:06:331 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 16:06:331 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-02 16:06:918 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-02 16:06:667 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-02 16:06:669 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 16:06:691 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 16:06:739 INFO  TestBase:81 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 16:06:872 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 16:06:155 INFO  AccountPage:110 - User Info Link displayed as => Data StudioPlace
+2021-06-02 16:06:345 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 16:06:493 INFO  AccountPage:49 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 16:06:634 INFO  AccountPage:59 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 16:06:793 INFO  AccountPage:69 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 16:06:940 INFO  AccountPage:79 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 16:06:93 INFO  AccountPage:99 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 16:06:225 INFO  AccountPage:119 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 16:06:225 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 16:06:801 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 16:06:152 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-02 16:06:271 INFO  TestBase:65 - *****clickOnSignOutLink***** TestStarted *****
+2021-06-02 16:06:475 INFO  HeaderNavPage:70 - Clicking on Sign out Link  => Sign out
+2021-06-02 16:06:807 INFO  TestBase:81 - **************clickOnSignOutLink*****Finished*****
+2021-06-02 16:06:132 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-02 16:06:445 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 16:06:676 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 16:06:792 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 16:06:915 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 16:06:78 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 16:06:279 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 16:06:605 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 16:06:806 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 16:06:859 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 16:06:578 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-02 17:06:97 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 17:06:158 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 17:06:158 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 17:06:219 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 17:06:250 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 17:06:511 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 17:06:531 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 17:06:144 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 17:06:145 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 17:06:609 INFO  HomePage:46 - Page Logo is Displayed =>  true
+2021-06-02 17:06:905 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 17:06:472 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 17:06:587 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-02 17:06:145 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-02 17:06:399 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 17:06:638 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 17:06:870 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 17:06:17 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 17:06:187 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 17:06:372 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 17:06:541 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:934 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 17:06:201 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:260 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:293 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-02 17:06:518 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 17:06:530 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-02 17:06:681 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-02 17:06:745 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-02 17:06:747 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:144 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:202 INFO  TestBase:81 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 17:06:351 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 17:06:508 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:740 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 17:06:941 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 17:06:99 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 17:06:315 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 17:06:608 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 17:06:41 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:42 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:748 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:165 INFO  HeaderNavPage:105 -  User info is displayed as  => Data StudioPlace
+2021-06-02 17:06:384 INFO  HeaderNavPage:94 - Sign out Link is Displayed => true
+2021-06-02 17:06:584 INFO  HeaderNavPage:94 - Sign out Link is Displayed => true
+2021-06-02 17:06:879 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-02 17:06:51 INFO  TestBase:65 - *****clickOnSignOutLink***** TestStarted *****
+2021-06-02 17:06:283 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-02 17:06:815 INFO  TestBase:81 - **************clickOnSignOutLink*****Finished*****
+2021-06-02 17:06:53 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-02 17:06:364 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 17:06:600 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 17:06:733 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 17:06:923 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 17:06:177 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 17:06:322 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:574 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 17:06:736 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:783 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:552 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-02 17:06:285 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 17:06:306 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 17:06:306 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 17:06:348 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 17:06:369 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 17:06:674 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 17:06:91 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 17:06:679 INFO  TestBase:128 - Initialize Web driver: 1923999715
+2021-06-02 17:06:695 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-02 17:06:703 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-02 17:06:746 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-02 17:06:776 INFO  WaitHelper:108 - page is loaded........
+2021-06-02 17:06:602 INFO  TestBase:65 - *****navigateToHomePage***** TestStarted *****
+2021-06-02 17:06:602 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 17:06:69 INFO  HomePage:26 - Page Logo is Displayed =>  true
+2021-06-02 17:06:71 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-02 17:06:387 INFO  HomePage:46 - Page Logo is Displayed =>  true
+2021-06-02 17:06:768 INFO  TestBase:81 - **************navigateToHomePage*****Finished*****
+2021-06-02 17:06:769 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-02 17:06:906 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-02 17:06:454 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-02 17:06:719 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-02 17:06:985 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 17:06:217 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 17:06:371 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 17:06:764 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 17:06:315 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 17:06:547 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:261 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 17:06:536 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:617 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:853 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-02 17:06:56 INFO  TestBase:65 - *****loginWithValidUserCredentials***** TestStarted *****
+2021-06-02 17:06:56 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-02 17:06:781 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-02 17:06:217 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-02 17:06:856 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:976 INFO  TestBase:81 - **************loginWithValidUserCredentials*****Finished*****
+2021-06-02 17:06:234 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-02 17:06:419 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:588 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-02 17:06:766 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-02 17:06:935 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-02 17:06:189 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-02 17:06:436 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-02 17:06:637 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:637 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:275 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-02 17:06:643 INFO  HeaderNavPage:105 -  User info is displayed as  => Data StudioPlace
+2021-06-02 17:06:925 INFO  HeaderNavPage:94 - Sign out Link is Displayed => true
+2021-06-02 17:06:191 INFO  HeaderNavPage:94 - Sign out Link is Displayed => true
+2021-06-02 17:06:517 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-02 17:06:979 INFO  TestBase:65 - *****clickOnSignOutLink***** TestStarted *****
+2021-06-02 17:06:210 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-02 17:06:72 INFO  TestBase:81 - **************clickOnSignOutLink*****Finished*****
+2021-06-02 17:06:225 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-02 17:06:445 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-02 17:06:661 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-02 17:06:746 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-02 17:06:862 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-02 17:06:47 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-02 17:06:182 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:463 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-02 17:06:626 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-02 17:06:664 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-02 17:06:420 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-03 04:06:913 INFO  TestBase:128 - Initialize Web driver: 1789452565
+2021-06-03 04:06:935 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 04:06:936 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 04:06:975 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 04:06:986 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 04:06:365 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 04:06:367 INFO  HomePage:31 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 04:06:84 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 04:06:561 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 04:06:955 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-03 04:06:123 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-03 04:06:280 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 04:06:522 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 04:06:684 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 04:06:13 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 04:06:432 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 04:06:485 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 04:06:156 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-03 04:06:846 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-03 04:06:420 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-03 04:06:696 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 04:06:775 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 04:06:999 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 04:06:271 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 04:06:550 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 04:06:169 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 04:06:409 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 04:06:574 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 04:06:575 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 04:06:626 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 04:06:872 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 04:06:57 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 07:06:597 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 07:06:619 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 07:06:621 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 07:06:656 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 07:06:685 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 07:06:243 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 07:06:160 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 07:06:631 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 07:06:912 INFO  LoginPage:57 - Authentication Header Txt is displayed as => true
+2021-06-03 07:06:50 INFO  LoginPage:112 - Authentication Txt as => AUTHENTICATION
+2021-06-03 07:06:185 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 07:06:371 INFO  LoginPage:119 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 07:06:531 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 07:06:877 INFO  LoginPage:125 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 07:06:133 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 07:06:188 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 07:06:976 INFO  LoginPage:62 - Entering email address as => info@wujames.com
+2021-06-03 07:06:987 INFO  LoginPage:68 - Entering password as => Manchester1
+2021-06-03 07:06:253 INFO  LoginPage:75 - Clicking on submit button as => Sign in
+2021-06-03 07:06:968 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 07:06:991 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 07:06:161 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 07:06:350 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 07:06:523 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 07:06:772 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 07:06:222 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 07:06:416 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 07:06:417 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 07:06:967 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 07:06:294 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 07:06:772 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 08:06:806 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 08:06:844 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 08:06:845 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 08:06:907 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 08:06:956 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 08:06:123 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 08:06:467 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 08:06:491 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 08:06:512 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 08:06:513 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 08:06:610 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 08:06:649 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 08:06:616 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 08:06:998 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 08:06:690 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 08:06:57 INFO  LoginPage:58 - Authentication Header Txt is displayed as => true
+2021-06-03 08:06:208 INFO  LoginPage:113 - Authentication Txt as => AUTHENTICATION
+2021-06-03 08:06:364 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 08:06:822 INFO  LoginPage:120 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 08:06:190 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:562 INFO  LoginPage:126 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 08:06:124 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:186 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:906 INFO  LoginPage:63 - Entering email address as => info@wujames.com
+2021-06-03 08:06:838 INFO  LoginPage:69 - Entering password as => Manchester1
+2021-06-03 08:06:383 INFO  LoginPage:76 - Clicking on submit button as => Sign in
+2021-06-03 08:06:895 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:400 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:613 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 08:06:833 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 08:06:51 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 08:06:463 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 08:06:848 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 08:06:105 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:106 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:10 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:350 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 08:06:186 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 08:06:536 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 08:06:556 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 08:06:558 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 08:06:601 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 08:06:614 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 08:06:646 INFO  TestBase:65 - *****register***** TestStarted *****
+2021-06-03 08:06:384 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 08:06:729 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 08:06:12 INFO  LoginPage:58 - Authentication Header Txt is displayed as => true
+2021-06-03 08:06:160 INFO  LoginPage:113 - Authentication Txt as => AUTHENTICATION
+2021-06-03 08:06:326 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 08:06:527 INFO  LoginPage:120 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 08:06:685 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:995 INFO  LoginPage:126 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 08:06:153 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:206 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:00 INFO  LoginPage:96 - Entering registration email as => 1622679804000@gmail.com
+2021-06-03 08:06:440 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:221 INFO  LoginPage:104 - click On Create An Account Btn
+2021-06-03 08:06:167 INFO  RegistrationPage:57 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 08:06:451 INFO  RegistrationPage:72 - Entering firstName as => FirstName
+2021-06-03 08:06:288 INFO  RegistrationPage:80 - Entering LastName as => LastName
+2021-06-03 08:06:131 INFO  RegistrationPage:92 - Entering password as => Password
+2021-06-03 08:06:33 INFO  RegistrationPage:105 - Day DropDown is enabled => true
+2021-06-03 08:06:34 INFO  RegistrationPage:106 - Selecting date as => 10
+2021-06-03 08:06:16 INFO  RegistrationPage:114 - Month DropDown is enabled as =>  true
+2021-06-03 08:06:77 INFO  RegistrationPage:125 - Year DropDown is enabled as => true
+2021-06-03 08:06:791 INFO  RegistrationPage:145 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 08:06:08 INFO  RegistrationPage:153 - Checked on SpecialOffer => true
+2021-06-03 08:06:278 INFO  RegistrationPage:177 - Entering Your Address FirstName as => FirstName
+2021-06-03 08:06:700 INFO  RegistrationPage:180 - Clearing Your Address FirstName field
+2021-06-03 08:06:54 INFO  RegistrationPage:187 - Entering Your Address LastName as => LastName
+2021-06-03 08:06:976 INFO  RegistrationPage:196 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 08:06:408 INFO  RegistrationPage:202 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 08:06:907 INFO  RegistrationPage:216 - Entering address2 as => 23rd District
+2021-06-03 08:06:540 INFO  RegistrationPage:222 - Entering your Address City as => Miami
+2021-06-03 08:06:914 INFO  RegistrationPage:229 - Entering Your Address State City as => Florida
+2021-06-03 08:06:384 INFO  RegistrationPage:236 - Entering Your Address PostCode as => 77077
+2021-06-03 08:06:41 INFO  RegistrationPage:244 - Country DropDown is enabled as =>  true
+2021-06-03 08:06:42 INFO  RegistrationPage:245 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 08:06:309 INFO  RegistrationPage:253 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 08:06:762 INFO  RegistrationPage:266 - Entering homePhone => 213-213-2444
+2021-06-03 08:06:406 INFO  RegistrationPage:272 - Entering mobilePhone as => 213-213-2555
+2021-06-03 08:06:62 INFO  RegistrationPage:280 - Entering Address Alias as => My Miami Address
+2021-06-03 08:06:966 INFO  RegistrationPage:289 - *Required field is displayed as => true
+2021-06-03 08:06:431 INFO  AccountPage:38 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:723 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 08:06:27 INFO  AccountPage:58 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 08:06:230 INFO  AccountPage:68 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 08:06:523 INFO  AccountPage:78 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 08:06:824 INFO  AccountPage:98 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 08:06:69 INFO  AccountPage:118 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:71 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:939 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:296 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 08:06:748 INFO  TestBase:81 - **************register*****Finished*****
+2021-06-03 08:06:781 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 08:06:802 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 08:06:804 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 08:06:847 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 08:06:873 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 08:06:100 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 08:06:354 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 08:06:848 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 08:06:143 INFO  LoginPage:61 - Authentication Header Txt is displayed as => true
+2021-06-03 08:06:271 INFO  LoginPage:117 - Authentication Txt as => AUTHENTICATION
+2021-06-03 08:06:444 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 08:06:663 INFO  LoginPage:124 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 08:06:853 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:276 INFO  LoginPage:130 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 08:06:449 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 08:06:498 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:203 INFO  LoginPage:67 - Entering email address as => info@wujames.com
+2021-06-03 08:06:733 INFO  LoginPage:73 - Entering password as => Manchester1
+2021-06-03 08:06:226 INFO  LoginPage:80 - Clicking on submit button as => Sign in
+2021-06-03 08:06:687 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:634 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:790 INFO  AccountPage:49 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 08:06:964 INFO  AccountPage:59 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 08:06:136 INFO  AccountPage:69 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 08:06:356 INFO  AccountPage:79 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 08:06:736 INFO  AccountPage:99 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 08:06:916 INFO  AccountPage:119 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:917 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 08:06:580 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 08:06:926 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 08:06:93 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 14:06:585 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 14:06:633 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 14:06:638 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 14:06:718 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 14:06:739 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 14:06:886 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 14:06:553 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 14:06:848 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 14:06:191 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 14:06:475 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 14:06:670 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 14:06:849 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:55 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 14:06:365 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 14:06:520 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:897 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 14:06:986 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:726 INFO  LoginPage:60 - Entering email address as => info@wujames.com
+2021-06-03 14:06:567 INFO  LoginPage:66 - Entering password as => Manchester1
+2021-06-03 14:06:134 INFO  LoginPage:73 - Clicking on submit button as => Sign in
+2021-06-03 14:06:810 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:847 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:193 INFO  AccountPage:49 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 14:06:420 INFO  AccountPage:59 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 14:06:640 INFO  AccountPage:69 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 14:06:933 INFO  AccountPage:79 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 14:06:212 INFO  AccountPage:99 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 14:06:771 INFO  AccountPage:119 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:772 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:474 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:923 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 14:06:968 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 14:06:342 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 14:06:406 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 14:06:409 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 14:06:599 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 14:06:641 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 14:06:864 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 14:06:816 INFO  HeaderNavPage:60 - Clicked on Signin Link => Sign in
+2021-06-03 14:06:284 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 14:06:601 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 14:06:732 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 14:06:914 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 14:06:82 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:324 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 14:06:612 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 14:06:756 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:866 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 14:06:927 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:808 INFO  LoginPage:60 - Entering email address as => info@wujames.com
+2021-06-03 14:06:341 INFO  LoginPage:66 - Entering password as => Manchester1
+2021-06-03 14:06:414 INFO  LoginPage:73 - Clicking on submit button as => Sign in
+2021-06-03 14:06:311 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:358 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:411 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:626 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 14:06:681 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 14:06:937 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 14:06:984 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 14:06:192 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 14:06:248 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 14:06:653 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 14:06:708 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 14:06:956 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 14:06:155 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:301 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:302 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:98 INFO  HeaderNavPage:85 - Clicking on Sign out Link  => Sign out
+2021-06-03 14:06:457 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 14:06:253 INFO  TestBase:128 - Initialize Web driver: 1370074462
+2021-06-03 14:06:279 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 14:06:281 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 14:06:391 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 14:06:417 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 14:06:615 INFO  TestBase:65 - *****Signin***** TestStarted *****
+2021-06-03 14:06:744 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 14:06:103 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 14:06:495 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 14:06:664 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 14:06:819 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 14:06:02 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:168 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 14:06:442 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 14:06:625 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 14:06:754 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 14:06:817 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:485 INFO  LoginPage:60 - Entering email address as => info@wujames.com
+2021-06-03 14:06:484 INFO  LoginPage:66 - Entering password as => Manchester1
+2021-06-03 14:06:947 INFO  LoginPage:73 - Clicking on submit button as => Sign in
+2021-06-03 14:06:754 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:988 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:36 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:231 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 14:06:293 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 14:06:679 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 14:06:735 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 14:06:950 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 14:06:994 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 14:06:249 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 14:06:310 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 14:06:550 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 14:06:840 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:32 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 14:06:33 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 14:06:725 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 14:06:58 INFO  TestBase:81 - **************Signin*****Finished*****
+2021-06-03 16:06:587 INFO  TestBase:128 - Initialize Web driver: 2106900153
+2021-06-03 16:06:615 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 16:06:616 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 16:06:654 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 16:06:665 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 16:06:110 INFO  TestBase:65 - *****goToHomePage***** TestStarted *****
+2021-06-03 16:06:128 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:605 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 16:06:607 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:955 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 16:06:236 INFO  TestBase:81 - **************goToHomePage*****Finished*****
+2021-06-03 16:06:989 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-03 16:06:833 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 16:06:367 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-03 16:06:728 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-03 16:06:951 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 16:06:348 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 16:06:485 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 16:06:639 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 16:06:802 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 16:06:71 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 16:06:298 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 16:06:438 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 16:06:533 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 16:06:582 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:566 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-03 16:06:751 INFO  TestBase:65 - *****enterRegistrationEmailAddress***** TestStarted *****
+2021-06-03 16:06:760 INFO  LoginPage:98 - Entering registration email as => 1622709235760@gmail.com
+2021-06-03 16:06:387 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:378 INFO  TestBase:81 - **************enterRegistrationEmailAddress*****Finished*****
+2021-06-03 16:06:528 INFO  TestBase:65 - *****clickOnCreateAnAccountBtn***** TestStarted *****
+2021-06-03 16:06:538 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 16:06:437 INFO  TestBase:81 - **************clickOnCreateAnAccountBtn*****Finished*****
+2021-06-03 16:06:658 INFO  TestBase:65 - *****goToRegistrationPage***** TestStarted *****
+2021-06-03 16:06:228 INFO  RegistrationPage:42 - CREATE AN ACCOUNT is => true
+2021-06-03 16:06:410 INFO  RegistrationPage:50 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 16:06:869 INFO  RegistrationPage:176 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 16:06:194 INFO  TestBase:81 - **************goToRegistrationPage*****Finished*****
+2021-06-03 16:06:426 INFO  TestBase:65 - *****enterUserPersonalInfomationDetails***** TestStarted *****
+2021-06-03 16:06:584 INFO  RegistrationPage:59 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 16:06:839 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 16:06:840 INFO  RegistrationPage:76 - Entering firstName as => FirstName
+2021-06-03 16:06:371 INFO  RegistrationPage:84 - Entering LastName as => LastName
+2021-06-03 16:06:213 INFO  RegistrationPage:96 - Entering password as => Password
+2021-06-03 16:06:951 INFO  RegistrationPage:109 - Day DropDown is enabled => true
+2021-06-03 16:06:952 INFO  RegistrationPage:110 - Selecting date as => 10
+2021-06-03 16:06:679 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 16:06:482 INFO  RegistrationPage:129 - Year DropDown is enabled as => true
+2021-06-03 16:06:01 INFO  RegistrationPage:149 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 16:06:121 INFO  RegistrationPage:157 - Checked on SpecialOffer => true
+2021-06-03 16:06:609 INFO  TestBase:81 - **************enterUserPersonalInfomationDetails*****Finished*****
+2021-06-03 16:06:728 INFO  TestBase:65 - *****enterUserAddressDetails***** TestStarted *****
+2021-06-03 16:06:730 INFO  RegistrationPage:181 - Entering Your Address FirstName as => FirstName
+2021-06-03 16:06:934 INFO  RegistrationPage:184 - Clearing Your Address FirstName field
+2021-06-03 16:06:183 INFO  RegistrationPage:191 - Entering Your Address LastName as => LastName
+2021-06-03 16:06:884 INFO  RegistrationPage:200 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 16:06:174 INFO  RegistrationPage:206 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 16:06:531 INFO  RegistrationPage:220 - Entering address2 as => 23rd District
+2021-06-03 16:06:845 INFO  RegistrationPage:226 - Entering your Address City as => Miami
+2021-06-03 16:06:199 INFO  RegistrationPage:233 - Entering Your Address State City as => Florida
+2021-06-03 16:06:564 INFO  RegistrationPage:240 - Entering Your Address PostCode as => 77077
+2021-06-03 16:06:952 INFO  RegistrationPage:248 - Country DropDown is enabled as =>  true
+2021-06-03 16:06:953 INFO  RegistrationPage:249 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 16:06:176 INFO  RegistrationPage:257 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 16:06:625 INFO  RegistrationPage:270 - Entering homePhone => 213-213-2444
+2021-06-03 16:06:988 INFO  RegistrationPage:276 - Entering mobilePhone as => 213-213-2555
+2021-06-03 16:06:459 INFO  RegistrationPage:284 - Entering Address Alias as => My Miami Address
+2021-06-03 16:06:209 INFO  TestBase:81 - **************enterUserAddressDetails*****Finished*****
+2021-06-03 16:06:366 INFO  TestBase:65 - *****clickOnRegisterBtn***** TestStarted *****
+2021-06-03 16:06:600 INFO  RegistrationPage:293 - *Required field is displayed as => true
+2021-06-03 16:06:241 INFO  TestBase:81 - **************clickOnRegisterBtn*****Finished*****
+2021-06-03 16:06:374 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-03 16:06:592 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:638 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:843 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 16:06:891 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 16:06:367 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 16:06:415 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 16:06:662 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 16:06:707 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 16:06:989 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 16:06:38 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 16:06:245 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 16:06:438 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:611 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:612 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:384 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-03 16:06:511 INFO  TestBase:65 - *****clickOnLogoutLink***** TestStarted *****
+2021-06-03 16:06:714 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 16:06:490 INFO  TestBase:81 - **************clickOnLogoutLink*****Finished*****
+2021-06-03 16:06:614 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-03 16:06:616 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:621 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 16:06:622 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:882 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 16:06:793 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-03 16:06:893 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 16:06:956 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 16:06:958 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 16:06:52 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 16:06:80 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 16:06:191 INFO  TestBase:65 - *****goToHomePage***** TestStarted *****
+2021-06-03 16:06:206 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:463 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 16:06:464 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:922 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 16:06:928 INFO  TestBase:81 - **************goToHomePage*****Finished*****
+2021-06-03 16:06:793 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-03 16:06:959 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 16:06:478 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-03 16:06:746 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-03 16:06:997 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 16:06:423 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 16:06:561 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 16:06:724 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 16:06:879 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 16:06:187 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 16:06:433 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 16:06:592 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 16:06:702 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 16:06:761 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:836 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-03 16:06:44 INFO  TestBase:65 - *****enterRegistrationEmailAddress***** TestStarted *****
+2021-06-03 16:06:50 INFO  LoginPage:98 - Entering registration email as => 1622709895050@gmail.com
+2021-06-03 16:06:591 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:586 INFO  TestBase:81 - **************enterRegistrationEmailAddress*****Finished*****
+2021-06-03 16:06:768 INFO  TestBase:65 - *****clickOnCreateAnAccountBtn***** TestStarted *****
+2021-06-03 16:06:772 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 16:06:747 INFO  TestBase:81 - **************clickOnCreateAnAccountBtn*****Finished*****
+2021-06-03 16:06:905 INFO  TestBase:65 - *****goToRegistrationPage***** TestStarted *****
+2021-06-03 16:06:88 INFO  RegistrationPage:42 - CREATE AN ACCOUNT is => true
+2021-06-03 16:06:701 INFO  RegistrationPage:50 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 16:06:902 INFO  RegistrationPage:177 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 16:06:212 INFO  TestBase:81 - **************goToRegistrationPage*****Finished*****
+2021-06-03 16:06:342 INFO  TestBase:65 - *****enterUserPersonalInfomationDetails***** TestStarted *****
+2021-06-03 16:06:512 INFO  RegistrationPage:59 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 16:06:856 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 16:06:857 INFO  RegistrationPage:76 - Entering firstName as => FirstName
+2021-06-03 16:06:312 INFO  RegistrationPage:84 - Entering LastName as => LastName
+2021-06-03 16:06:28 INFO  RegistrationPage:96 - Entering password as => Password
+2021-06-03 16:06:575 INFO  RegistrationPage:109 - Day DropDown is enabled => true
+2021-06-03 16:06:576 INFO  RegistrationPage:110 - Selecting date as => 10
+2021-06-03 16:06:291 INFO  CustomDrivers:480 - Element :: Day DropDown selected.. is already selected
+2021-06-03 16:06:391 INFO  RegistrationPage:119 - Month DropDown is enabled as =>  true
+2021-06-03 16:06:144 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 16:06:708 INFO  RegistrationPage:150 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 16:06:843 INFO  RegistrationPage:158 - Checked on SpecialOffer => true
+2021-06-03 16:06:286 INFO  TestBase:81 - **************enterUserPersonalInfomationDetails*****Finished*****
+2021-06-03 16:06:397 INFO  TestBase:65 - *****enterUserAddressDetails***** TestStarted *****
+2021-06-03 16:06:398 INFO  RegistrationPage:182 - Entering Your Address FirstName as => FirstName
+2021-06-03 16:06:592 INFO  RegistrationPage:185 - Clearing Your Address FirstName field
+2021-06-03 16:06:859 INFO  RegistrationPage:192 - Entering Your Address LastName as => LastName
+2021-06-03 16:06:528 INFO  RegistrationPage:201 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 16:06:823 INFO  RegistrationPage:207 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 16:06:260 INFO  RegistrationPage:221 - Entering address2 as => 23rd District
+2021-06-03 16:06:589 INFO  RegistrationPage:227 - Entering your Address City as => Miami
+2021-06-03 16:06:845 INFO  RegistrationPage:234 - Entering Your Address State City as => Florida
+2021-06-03 16:06:237 INFO  RegistrationPage:241 - Entering Your Address PostCode as => 77077
+2021-06-03 16:06:787 INFO  RegistrationPage:249 - Country DropDown is enabled as =>  true
+2021-06-03 16:06:788 INFO  RegistrationPage:250 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 16:06:992 INFO  RegistrationPage:258 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 16:06:452 INFO  RegistrationPage:271 - Entering homePhone => 213-213-2444
+2021-06-03 16:06:963 INFO  RegistrationPage:277 - Entering mobilePhone as => 213-213-2555
+2021-06-03 16:06:485 INFO  RegistrationPage:285 - Entering Address Alias as => My Miami Address
+2021-06-03 16:06:221 INFO  TestBase:81 - **************enterUserAddressDetails*****Finished*****
+2021-06-03 16:06:660 INFO  TestBase:65 - *****clickOnRegisterBtn***** TestStarted *****
+2021-06-03 16:06:961 INFO  RegistrationPage:294 - *Required field is displayed as => true
+2021-06-03 16:06:466 INFO  TestBase:81 - **************clickOnRegisterBtn*****Finished*****
+2021-06-03 16:06:592 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-03 16:06:861 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:920 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:138 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 16:06:181 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 16:06:427 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 16:06:487 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 16:06:716 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 16:06:759 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 16:06:105 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 16:06:166 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 16:06:387 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 16:06:603 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:742 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 16:06:742 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 16:06:544 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-03 16:06:664 INFO  TestBase:65 - *****clickOnLogoutLink***** TestStarted *****
+2021-06-03 16:06:920 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 16:06:842 INFO  TestBase:81 - **************clickOnLogoutLink*****Finished*****
+2021-06-03 16:06:958 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-03 16:06:960 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:918 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 16:06:919 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 16:06:406 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 16:06:214 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-03 17:06:669 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 17:06:693 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 17:06:694 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 17:06:730 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 17:06:743 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 17:06:659 INFO  TestBase:65 - *****goToHomePage***** TestStarted *****
+2021-06-03 17:06:667 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 17:06:398 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 17:06:399 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 17:06:724 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 17:06:722 INFO  TestBase:81 - **************goToHomePage*****Finished*****
+2021-06-03 17:06:663 INFO  TestBase:65 - *****click0nLoginLink***** TestStarted *****
+2021-06-03 17:06:851 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 17:06:391 INFO  TestBase:81 - **************click0nLoginLink*****Finished*****
+2021-06-03 17:06:588 INFO  TestBase:65 - *****goToLoginPage***** TestStarted *****
+2021-06-03 17:06:908 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 17:06:216 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 17:06:368 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 17:06:518 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 17:06:665 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 17:06:849 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 17:06:198 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 17:06:364 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 17:06:460 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 17:06:506 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 17:06:488 INFO  TestBase:81 - **************goToLoginPage*****Finished*****
+2021-06-03 17:06:668 INFO  TestBase:65 - *****enterRegistrationEmailAddress***** TestStarted *****
+2021-06-03 17:06:742 INFO  LoginPage:98 - Entering registration email as => 1622711178742@gmail.com
+2021-06-03 17:06:324 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 17:06:356 INFO  TestBase:81 - **************enterRegistrationEmailAddress*****Finished*****
+2021-06-03 17:06:509 INFO  TestBase:65 - *****clickOnCreateAnAccountBtn***** TestStarted *****
+2021-06-03 17:06:522 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 17:06:305 INFO  TestBase:81 - **************clickOnCreateAnAccountBtn*****Finished*****
+2021-06-03 17:06:673 INFO  TestBase:65 - *****goToRegistrationPage***** TestStarted *****
+2021-06-03 17:06:194 INFO  RegistrationPage:42 - CREATE AN ACCOUNT is => true
+2021-06-03 17:06:338 INFO  RegistrationPage:50 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 17:06:790 INFO  RegistrationPage:181 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 17:06:168 INFO  TestBase:81 - **************goToRegistrationPage*****Finished*****
+2021-06-03 17:06:463 INFO  TestBase:65 - *****enterUserPersonalInfomationDetails***** TestStarted *****
+2021-06-03 17:06:632 INFO  RegistrationPage:59 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 17:06:876 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 17:06:877 INFO  RegistrationPage:76 - Entering firstName as => FirstName
+2021-06-03 17:06:377 INFO  RegistrationPage:84 - Entering LastName as => LastName
+2021-06-03 17:06:154 INFO  RegistrationPage:96 - Entering password as => Password
+2021-06-03 17:06:706 INFO  RegistrationPage:109 - Day DropDown is enabled => true
+2021-06-03 17:06:706 INFO  RegistrationPage:110 - Selecting date as => 10
+2021-06-03 17:06:398 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 17:06:489 INFO  RegistrationPage:119 - Month DropDown is enabled as =>  true
+2021-06-03 17:06:287 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 17:06:358 INFO  RegistrationPage:131 - Year DropDown is enabled as => true
+2021-06-03 17:06:736 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 17:06:917 INFO  RegistrationPage:153 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 17:06:47 INFO  RegistrationPage:161 - Checked on SpecialOffer => true
+2021-06-03 17:06:277 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 17:06:569 INFO  TestBase:81 - **************enterUserPersonalInfomationDetails*****Finished*****
+2021-06-03 17:06:702 INFO  TestBase:65 - *****enterUserAddressDetails***** TestStarted *****
+2021-06-03 17:06:703 INFO  RegistrationPage:186 - Entering Your Address FirstName as => FirstName
+2021-06-03 17:06:877 INFO  RegistrationPage:189 - Clearing Your Address FirstName field
+2021-06-03 17:06:121 INFO  RegistrationPage:196 - Entering Your Address LastName as => LastName
+2021-06-03 17:06:793 INFO  RegistrationPage:205 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 17:06:88 INFO  RegistrationPage:211 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 17:06:439 INFO  RegistrationPage:225 - Entering address2 as => 23rd District
+2021-06-03 17:06:742 INFO  RegistrationPage:231 - Entering your Address City as => Miami
+2021-06-03 17:06:68 INFO  RegistrationPage:239 - Entering Your Address State as => Florida
+2021-06-03 17:06:605 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 17:06:607 INFO  RegistrationPage:247 - Entering Your Address PostCode as => 77077
+2021-06-03 17:06:960 INFO  RegistrationPage:255 - Country DropDown is enabled as =>  true
+2021-06-03 17:06:961 INFO  RegistrationPage:256 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 17:06:223 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 17:06:225 INFO  RegistrationPage:265 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 17:06:603 INFO  RegistrationPage:278 - Entering homePhone => 213-213-2444
+2021-06-03 17:06:935 INFO  RegistrationPage:284 - Entering mobilePhone as => 213-213-2555
+2021-06-03 17:06:406 INFO  RegistrationPage:292 - Entering Address Alias as => My Miami Address
+2021-06-03 17:06:136 INFO  TestBase:81 - **************enterUserAddressDetails*****Finished*****
+2021-06-03 17:06:300 INFO  TestBase:65 - *****clickOnRegisterBtn***** TestStarted *****
+2021-06-03 17:06:501 INFO  RegistrationPage:301 - *Required field is displayed as => true
+2021-06-03 17:06:432 INFO  TestBase:81 - **************clickOnRegisterBtn*****Finished*****
+2021-06-03 17:06:567 INFO  TestBase:65 - *****goToAccountPage***** TestStarted *****
+2021-06-03 17:06:769 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 17:06:817 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 17:06:10 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 17:06:61 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 17:06:287 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 17:06:347 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 17:06:544 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 17:06:588 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 17:06:841 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 17:06:888 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 17:06:146 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 17:06:334 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 17:06:474 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 17:06:475 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 17:06:289 INFO  TestBase:81 - **************goToAccountPage*****Finished*****
+2021-06-03 17:06:418 INFO  TestBase:65 - *****clickOnLogoutLink***** TestStarted *****
+2021-06-03 17:06:651 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 17:06:762 INFO  TestBase:81 - **************clickOnLogoutLink*****Finished*****
+2021-06-03 17:06:889 INFO  TestBase:65 - *****backToHomePage***** TestStarted *****
+2021-06-03 17:06:891 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 17:06:873 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 17:06:874 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 17:06:308 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 17:06:240 INFO  TestBase:81 - **************backToHomePage*****Finished*****
+2021-06-03 18:06:641 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 18:06:701 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 18:06:704 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 18:06:794 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 18:06:808 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 18:06:129 INFO  TestBase:65 - ***goToHomePage***TestStarted***
+2021-06-03 18:06:148 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 18:06:492 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 18:06:494 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 18:06:946 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 18:06:176 INFO  TestBase:81 - ***goToHomePage***Finished***
+2021-06-03 18:06:400 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 18:06:315 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 18:06:811 INFO  TestBase:81 - ***click0nLoginLink***Finished***
+2021-06-03 18:06:12 INFO  TestBase:65 - ***goToLoginPage***TestStarted***
+2021-06-03 18:06:446 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 18:06:802 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 18:06:983 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 18:06:160 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 18:06:340 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 18:06:650 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 18:06:955 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 18:06:124 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 18:06:252 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 18:06:317 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:444 INFO  TestBase:81 - ***goToLoginPage***Finished***
+2021-06-03 18:06:645 INFO  TestBase:65 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 18:06:654 INFO  LoginPage:98 - Entering registration email as => 1622716420654@gmail.com
+2021-06-03 18:06:344 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:423 INFO  TestBase:81 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 18:06:563 INFO  TestBase:65 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 18:06:573 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 18:06:390 INFO  TestBase:81 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 18:06:605 INFO  TestBase:65 - ***goToRegistrationPage***TestStarted***
+2021-06-03 18:06:394 INFO  RegistrationPage:42 - CREATE AN ACCOUNT is => true
+2021-06-03 18:06:543 INFO  RegistrationPage:50 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 18:06:14 INFO  RegistrationPage:181 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 18:06:332 INFO  TestBase:81 - ***goToRegistrationPage***Finished***
+2021-06-03 18:06:550 INFO  TestBase:65 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 18:06:783 INFO  RegistrationPage:59 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 18:06:83 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 18:06:84 INFO  RegistrationPage:76 - Entering firstName as => FirstName
+2021-06-03 18:06:580 INFO  RegistrationPage:84 - Entering LastName as => LastName
+2021-06-03 18:06:405 INFO  RegistrationPage:96 - Entering password as => Password
+2021-06-03 18:06:63 INFO  RegistrationPage:109 - Day DropDown is enabled => true
+2021-06-03 18:06:63 INFO  RegistrationPage:110 - Selecting date as => 10
+2021-06-03 18:06:867 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 18:06:967 INFO  RegistrationPage:119 - Month DropDown is enabled as =>  true
+2021-06-03 18:06:825 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 18:06:915 INFO  RegistrationPage:131 - Year DropDown is enabled as => true
+2021-06-03 18:06:328 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 18:06:517 INFO  RegistrationPage:153 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 18:06:698 INFO  RegistrationPage:161 - Checked on SpecialOffer => true
+2021-06-03 18:06:19 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 18:06:335 INFO  TestBase:81 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 18:06:485 INFO  TestBase:65 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 18:06:487 INFO  RegistrationPage:186 - Entering Your Address FirstName as => FirstName
+2021-06-03 18:06:676 INFO  RegistrationPage:189 - Clearing Your Address FirstName field
+2021-06-03 18:06:213 INFO  RegistrationPage:196 - Entering Your Address LastName as => LastName
+2021-06-03 18:06:972 INFO  RegistrationPage:205 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 18:06:346 INFO  RegistrationPage:211 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 18:06:919 INFO  RegistrationPage:225 - Entering address2 as => 23rd District
+2021-06-03 18:06:277 INFO  RegistrationPage:231 - Entering your Address City as => Miami
+2021-06-03 18:06:583 INFO  RegistrationPage:239 - Entering Your Address State as => Florida
+2021-06-03 18:06:493 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 18:06:494 INFO  RegistrationPage:247 - Entering Your Address PostCode as => 77077
+2021-06-03 18:06:867 INFO  RegistrationPage:255 - Country DropDown is enabled as =>  true
+2021-06-03 18:06:867 INFO  RegistrationPage:256 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 18:06:229 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 18:06:230 INFO  RegistrationPage:265 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 18:06:623 INFO  RegistrationPage:278 - Entering homePhone => 213-213-2444
+2021-06-03 18:06:942 INFO  RegistrationPage:284 - Entering mobilePhone as => 213-213-2555
+2021-06-03 18:06:420 INFO  RegistrationPage:292 - Entering Address Alias as => My Miami Address
+2021-06-03 18:06:161 INFO  TestBase:81 - ***enterUserAddressDetails***Finished***
+2021-06-03 18:06:337 INFO  TestBase:65 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 18:06:565 INFO  RegistrationPage:301 - *Required field is displayed as => true
+2021-06-03 18:06:852 INFO  TestBase:81 - ***clickOnRegisterBtn***Finished***
+2021-06-03 18:06:991 INFO  TestBase:65 - ***goToAccountPage***TestStarted***
+2021-06-03 18:06:178 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:221 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:461 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 18:06:503 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 18:06:697 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 18:06:745 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 18:06:17 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 18:06:56 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 18:06:311 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 18:06:360 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 18:06:565 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 18:06:781 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:922 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:923 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:744 INFO  TestBase:81 - ***goToAccountPage***Finished***
+2021-06-03 18:06:875 INFO  TestBase:65 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 18:06:82 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 18:06:922 INFO  TestBase:81 - ***clickOnLogoutLink***Finished***
+2021-06-03 18:06:46 INFO  TestBase:65 - ***backToHomePage***TestStarted***
+2021-06-03 18:06:56 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 18:06:421 INFO  HomePage:32 - Page Logo is Displayed =>  true
+2021-06-03 18:06:422 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 18:06:719 INFO  HomePage:52 - Page Logo is Displayed =>  true
+2021-06-03 18:06:703 INFO  TestBase:81 - ***backToHomePage***Finished***
+2021-06-03 18:06:639 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 18:06:662 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 18:06:664 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 18:06:720 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 18:06:748 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 18:06:192 INFO  TestBase:65 - ***goToHomePage***TestStarted***
+2021-06-03 18:06:195 INFO  HomePage:37 - Current Page Url =>  http://automationpractice.com/index.php
+2021-06-03 18:06:788 INFO  TestBase:81 - ***goToHomePage***Finished***
+2021-06-03 18:06:138 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 18:06:586 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 18:06:608 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 18:06:609 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 18:06:662 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 18:06:693 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 18:06:908 INFO  TestBase:65 - ***goToHomePage***TestStarted***
+2021-06-03 18:06:291 INFO  TestBase:81 - ***goToHomePage***Finished***
+2021-06-03 18:06:338 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 18:06:557 INFO  TestBase:128 - Initialize Web driver: 1443055846
+2021-06-03 18:06:580 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 18:06:581 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 18:06:608 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 18:06:634 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 18:06:748 INFO  TestBase:65 - ***goToHomePage***TestStarted***
+2021-06-03 18:06:919 INFO  TestBase:81 - ***goToHomePage***Finished***
+2021-06-03 18:06:759 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 18:06:400 INFO  HeaderNavPage:61 - Clicked on Signin Link => Sign in
+2021-06-03 18:06:904 INFO  TestBase:81 - ***click0nLoginLink***Finished***
+2021-06-03 18:06:385 INFO  TestBase:65 - ***goToLoginPage***TestStarted***
+2021-06-03 18:06:635 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 18:06:957 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 18:06:114 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 18:06:303 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 18:06:591 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 18:06:758 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 18:06:973 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 18:06:135 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 18:06:241 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 18:06:301 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:251 INFO  TestBase:81 - ***goToLoginPage***Finished***
+2021-06-03 18:06:393 INFO  TestBase:65 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 18:06:395 INFO  LoginPage:98 - Entering registration email as => 1622717566395@gmail.com
+2021-06-03 18:06:926 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:12 INFO  TestBase:81 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 18:06:187 INFO  TestBase:65 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 18:06:209 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 18:06:131 INFO  TestBase:81 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 18:06:269 INFO  TestBase:65 - ***goToRegistrationPage***TestStarted***
+2021-06-03 18:06:739 INFO  RegistrationPage:42 - CREATE AN ACCOUNT is => true
+2021-06-03 18:06:104 INFO  RegistrationPage:50 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 18:06:297 INFO  RegistrationPage:181 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 18:06:594 INFO  TestBase:81 - ***goToRegistrationPage***Finished***
+2021-06-03 18:06:717 INFO  TestBase:65 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 18:06:946 INFO  RegistrationPage:59 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 18:06:187 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 18:06:188 INFO  RegistrationPage:76 - Entering firstName as => FirstName
+2021-06-03 18:06:655 INFO  RegistrationPage:84 - Entering LastName as => LastName
+2021-06-03 18:06:363 INFO  RegistrationPage:96 - Entering password as => Password
+2021-06-03 18:06:904 INFO  RegistrationPage:109 - Day DropDown is enabled => true
+2021-06-03 18:06:905 INFO  RegistrationPage:110 - Selecting date as => 10
+2021-06-03 18:06:659 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 18:06:746 INFO  RegistrationPage:119 - Month DropDown is enabled as =>  true
+2021-06-03 18:06:493 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 18:06:586 INFO  RegistrationPage:131 - Year DropDown is enabled as => true
+2021-06-03 18:06:09 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 18:06:162 INFO  RegistrationPage:153 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 18:06:285 INFO  RegistrationPage:161 - Checked on SpecialOffer => true
+2021-06-03 18:06:519 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 18:06:783 INFO  TestBase:81 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 18:06:923 INFO  TestBase:65 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 18:06:925 INFO  RegistrationPage:186 - Entering Your Address FirstName as => FirstName
+2021-06-03 18:06:208 INFO  RegistrationPage:189 - Clearing Your Address FirstName field
+2021-06-03 18:06:445 INFO  RegistrationPage:196 - Entering Your Address LastName as => LastName
+2021-06-03 18:06:70 INFO  RegistrationPage:205 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 18:06:456 INFO  RegistrationPage:211 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 18:06:794 INFO  RegistrationPage:225 - Entering address2 as => 23rd District
+2021-06-03 18:06:98 INFO  RegistrationPage:231 - Entering your Address City as => Miami
+2021-06-03 18:06:356 INFO  RegistrationPage:239 - Entering Your Address State as => Florida
+2021-06-03 18:06:962 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 18:06:964 INFO  RegistrationPage:247 - Entering Your Address PostCode as => 77077
+2021-06-03 18:06:318 INFO  RegistrationPage:255 - Country DropDown is enabled as =>  true
+2021-06-03 18:06:319 INFO  RegistrationPage:256 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 18:06:559 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 18:06:560 INFO  RegistrationPage:265 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 18:06:944 INFO  RegistrationPage:278 - Entering homePhone => 213-213-2444
+2021-06-03 18:06:319 INFO  RegistrationPage:284 - Entering mobilePhone as => 213-213-2555
+2021-06-03 18:06:801 INFO  RegistrationPage:292 - Entering Address Alias as => My Miami Address
+2021-06-03 18:06:448 INFO  TestBase:81 - ***enterUserAddressDetails***Finished***
+2021-06-03 18:06:648 INFO  TestBase:65 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 18:06:872 INFO  RegistrationPage:301 - *Required field is displayed as => true
+2021-06-03 18:06:73 INFO  TestBase:81 - ***clickOnRegisterBtn***Finished***
+2021-06-03 18:06:203 INFO  TestBase:65 - ***goToAccountPage***TestStarted***
+2021-06-03 18:06:478 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:529 INFO  AccountPage:41 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:861 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 18:06:933 INFO  AccountPage:51 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 18:06:214 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 18:06:259 INFO  AccountPage:61 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 18:06:480 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 18:06:530 INFO  AccountPage:71 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 18:06:825 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 18:06:879 INFO  AccountPage:82 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 18:06:136 INFO  AccountPage:104 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 18:06:343 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:483 INFO  AccountPage:127 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 18:06:484 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 18:06:262 INFO  TestBase:81 - ***goToAccountPage***Finished***
+2021-06-03 18:06:430 INFO  TestBase:65 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 18:06:707 INFO  HeaderNavPage:86 - Clicking on Sign out Link  => Sign out
+2021-06-03 18:06:650 INFO  TestBase:81 - ***clickOnLogoutLink***Finished***
+2021-06-03 18:06:100 INFO  TestBase:65 - ***backToHomePage***TestStarted***
+2021-06-03 18:06:113 INFO  TestBase:81 - ***backToHomePage***Finished***
+2021-06-03 22:06:592 INFO  TestBase:128 - Initialize Web driver: 1620823990
+2021-06-03 22:06:625 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 22:06:627 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 22:06:675 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 22:06:687 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 22:06:662 INFO  TestBase:65 - ***gotoHomePage***TestStarted***
+2021-06-03 22:06:131 INFO  TestBase:81 - ***gotoHomePage***Finished***
+2021-06-03 22:06:367 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 22:06:768 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-03 22:06:259 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-03 22:06:828 INFO  TestBase:81 - ***click0nLoginLink***Finished***
+2021-06-03 22:06:991 INFO  TestBase:65 - ***gotoLoginPage***TestStarted***
+2021-06-03 22:06:313 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 22:06:601 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 22:06:763 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 22:06:930 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 22:06:94 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:263 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 22:06:594 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 22:06:757 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:841 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 22:06:903 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:836 INFO  TestBase:81 - ***gotoLoginPage***Finished***
+2021-06-03 22:06:992 INFO  TestBase:65 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 22:06:996 INFO  LoginPage:98 - Entering registration email as => 1622729593996@gmail.com
+2021-06-03 22:06:537 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:394 INFO  TestBase:81 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 22:06:525 INFO  TestBase:65 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 22:06:531 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 22:06:249 INFO  TestBase:81 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 22:06:364 INFO  TestBase:65 - ***gotoRegistrationPage***TestStarted***
+2021-06-03 22:06:615 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-03 22:06:768 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 22:06:374 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 22:06:681 INFO  TestBase:81 - ***gotoRegistrationPage***Finished***
+2021-06-03 22:06:933 INFO  TestBase:65 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 22:06:92 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 22:06:398 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 22:06:398 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-03 22:06:824 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-03 22:06:445 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-03 22:06:60 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-03 22:06:60 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-03 22:06:839 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 22:06:929 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 22:06:674 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 22:06:751 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 22:06:209 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 22:06:359 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 22:06:472 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-03 22:06:715 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 22:06:956 INFO  TestBase:81 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 22:06:72 INFO  TestBase:65 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 22:06:72 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-03 22:06:324 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-03 22:06:594 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-03 22:06:207 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 22:06:553 INFO  RegistrationPage:210 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 22:06:923 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-03 22:06:177 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-03 22:06:407 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-03 22:06:821 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 22:06:823 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-03 22:06:263 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-03 22:06:264 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 22:06:488 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 22:06:489 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 22:06:763 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-03 22:06:92 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-03 22:06:570 INFO  RegistrationPage:291 - Entering Address Alias as => My Miami Address
+2021-06-03 22:06:194 INFO  TestBase:81 - ***enterUserAddressDetails***Finished***
+2021-06-03 22:06:368 INFO  TestBase:65 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 22:06:659 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-03 22:06:940 INFO  TestBase:81 - ***clickOnRegisterBtn***Finished***
+2021-06-03 22:06:72 INFO  TestBase:65 - ***gotoAccountPage***TestStarted***
+2021-06-03 22:06:283 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:327 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:544 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 22:06:613 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 22:06:813 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:876 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:76 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 22:06:146 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 22:06:459 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 22:06:507 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 22:06:713 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 22:06:933 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:66 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:67 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:814 INFO  TestBase:81 - ***gotoAccountPage***Finished***
+2021-06-03 22:06:917 INFO  TestBase:65 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 22:06:166 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-03 22:06:267 INFO  TestBase:81 - ***clickOnLogoutLink***Finished***
+2021-06-03 22:06:393 INFO  TestBase:65 - ***backHomePage***TestStarted***
+2021-06-03 22:06:883 INFO  TestBase:81 - ***backHomePage***Finished***
+2021-06-03 22:06:837 INFO  TestBase:128 - Initialize Web driver: 596706728
+2021-06-03 22:06:860 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 22:06:860 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 22:06:906 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 22:06:914 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 22:06:824 INFO  TestBase:65 - ***gotoHomePage***TestStarted***
+2021-06-03 22:06:859 INFO  TestBase:81 - ***gotoHomePage***Finished***
+2021-06-03 22:06:565 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 22:06:13 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-03 22:06:191 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-03 22:06:796 INFO  TestBase:81 - ***click0nLoginLink***Finished***
+2021-06-03 22:06:146 INFO  TestBase:65 - ***gotoLoginPage***TestStarted***
+2021-06-03 22:06:362 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 22:06:632 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 22:06:795 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 22:06:980 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 22:06:196 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:371 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 22:06:571 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 22:06:703 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:803 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 22:06:841 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:807 INFO  TestBase:81 - ***gotoLoginPage***Finished***
+2021-06-03 22:06:965 INFO  TestBase:65 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 22:06:965 INFO  LoginPage:98 - Entering registration email as => 1622729885965@gmail.com
+2021-06-03 22:06:570 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:538 INFO  TestBase:81 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 22:06:722 INFO  TestBase:65 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 22:06:749 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 22:06:514 INFO  TestBase:81 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 22:06:794 INFO  TestBase:65 - ***gotoRegistrationPage***TestStarted***
+2021-06-03 22:06:745 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-03 22:06:864 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 22:06:447 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 22:06:775 INFO  TestBase:81 - ***gotoRegistrationPage***Finished***
+2021-06-03 22:06:978 INFO  TestBase:65 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 22:06:126 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 22:06:441 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 22:06:443 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-03 22:06:07 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-03 22:06:820 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-03 22:06:370 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-03 22:06:370 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-03 22:06:209 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 22:06:286 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 22:06:984 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 22:06:48 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 22:06:462 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 22:06:600 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 22:06:732 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-03 22:06:958 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 22:06:256 INFO  TestBase:81 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 22:06:362 INFO  TestBase:65 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 22:06:365 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-03 22:06:545 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-03 22:06:849 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-03 22:06:474 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 22:06:805 INFO  RegistrationPage:210 - Entering Address as => 123 CovidStreet Avenue
+2021-06-03 22:06:241 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-03 22:06:544 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-03 22:06:802 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-03 22:06:240 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 22:06:241 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-03 22:06:613 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-03 22:06:614 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 22:06:917 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 22:06:918 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 22:06:238 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-03 22:06:689 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-03 22:06:171 INFO  RegistrationPage:291 - Entering Address Alias as => MyMiami Address
+2021-06-03 22:06:746 INFO  TestBase:81 - ***enterUserAddressDetails***Finished***
+2021-06-03 22:06:962 INFO  TestBase:65 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 22:06:200 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-03 22:06:816 INFO  TestBase:81 - ***clickOnRegisterBtn***Finished***
+2021-06-03 22:06:481 INFO  TestBase:65 - ***gotoAccountPage***TestStarted***
+2021-06-03 22:06:298 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:606 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:84 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 22:06:532 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 22:06:26 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:87 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:384 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 22:06:700 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 22:06:541 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 22:06:684 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 22:06:185 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 22:06:495 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:877 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:877 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:315 INFO  TestBase:81 - ***gotoAccountPage***Finished***
+2021-06-03 22:06:912 INFO  TestBase:65 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 22:06:362 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-03 22:06:419 INFO  TestBase:81 - ***clickOnLogoutLink***Finished***
+2021-06-03 22:06:531 INFO  TestBase:65 - ***backHomePage***TestStarted***
+2021-06-03 22:06:149 INFO  TestBase:81 - ***backHomePage***Finished***
+2021-06-03 22:06:495 INFO  TestBase:128 - Initialize Web driver: 1620823990
+2021-06-03 22:06:587 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 22:06:588 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 22:06:730 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 22:06:759 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 22:06:556 INFO  TestBase:65 - ***gotoHomePage***TestStarted***
+2021-06-03 22:06:841 INFO  TestBase:81 - ***gotoHomePage***Finished***
+2021-06-03 22:06:446 INFO  TestBase:65 - ***click0nLoginLink***TestStarted***
+2021-06-03 22:06:92 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-03 22:06:806 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-03 22:06:449 INFO  TestBase:81 - ***click0nLoginLink***Finished***
+2021-06-03 22:06:641 INFO  TestBase:65 - ***gotoLoginPage***TestStarted***
+2021-06-03 22:06:859 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 22:06:153 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 22:06:294 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 22:06:473 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 22:06:670 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:820 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 22:06:11 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 22:06:135 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:226 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 22:06:274 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:211 INFO  TestBase:81 - ***gotoLoginPage***Finished***
+2021-06-03 22:06:343 INFO  TestBase:65 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 22:06:343 INFO  LoginPage:98 - Entering registration email as => 1622730070343@gmail.com
+2021-06-03 22:06:788 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:782 INFO  TestBase:81 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 22:06:920 INFO  TestBase:65 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 22:06:925 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 22:06:741 INFO  TestBase:81 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 22:06:959 INFO  TestBase:65 - ***gotoRegistrationPage***TestStarted***
+2021-06-03 22:06:133 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-03 22:06:326 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 22:06:809 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 22:06:101 INFO  TestBase:81 - ***gotoRegistrationPage***Finished***
+2021-06-03 22:06:508 INFO  TestBase:65 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 22:06:769 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 22:06:268 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 22:06:269 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-03 22:06:86 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-03 22:06:908 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-03 22:06:602 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-03 22:06:618 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-03 22:06:717 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 22:06:796 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 22:06:597 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 22:06:673 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 22:06:157 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 22:06:305 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 22:06:453 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-03 22:06:680 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 22:06:954 INFO  TestBase:81 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 22:06:102 INFO  TestBase:65 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 22:06:117 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-03 22:06:443 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-03 22:06:674 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-03 22:06:239 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 22:06:725 INFO  RegistrationPage:210 - Entering Address as => 123 Eric Avenue
+2021-06-03 22:06:80 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-03 22:06:366 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-03 22:06:627 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-03 22:06:163 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 22:06:164 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-03 22:06:511 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-03 22:06:512 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 22:06:804 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 22:06:805 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 22:06:278 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-03 22:06:567 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-03 22:06:27 INFO  RegistrationPage:291 - Entering Address Alias as => MyMiami Address
+2021-06-03 22:06:586 INFO  TestBase:81 - ***enterUserAddressDetails***Finished***
+2021-06-03 22:06:771 INFO  TestBase:65 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 22:06:35 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-03 22:06:661 INFO  TestBase:81 - ***clickOnRegisterBtn***Finished***
+2021-06-03 22:06:779 INFO  TestBase:65 - ***gotoAccountPage***TestStarted***
+2021-06-03 22:06:995 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:42 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:249 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 22:06:289 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 22:06:460 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:513 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:821 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 22:06:902 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 22:06:199 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 22:06:237 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 22:06:457 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 22:06:638 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:779 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:780 INFO  TestBase:162 - capturing ui navigation screen...
+2021-06-03 22:06:522 INFO  TestBase:81 - ***gotoAccountPage***Finished***
+2021-06-03 22:06:644 INFO  TestBase:65 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 22:06:823 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-03 22:06:752 INFO  TestBase:81 - ***clickOnLogoutLink***Finished***
+2021-06-03 22:06:895 INFO  TestBase:65 - ***backHomePage***TestStarted***
+2021-06-03 22:06:59 INFO  TestBase:81 - ***backHomePage***Finished***
+2021-06-03 22:06:943 INFO  TestBase:127 - Initialize Web driver: 1620823990
+2021-06-03 22:06:963 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 22:06:963 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 22:06:04 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 22:06:24 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 22:06:184 INFO  TestBase:64 - ***gotoHomePage***TestStarted***
+2021-06-03 22:06:69 INFO  TestBase:80 - ***gotoHomePage***Finished***
+2021-06-03 22:06:664 INFO  TestBase:64 - ***click0nLoginLink***TestStarted***
+2021-06-03 22:06:66 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-03 22:06:730 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-03 22:06:312 INFO  TestBase:80 - ***click0nLoginLink***Finished***
+2021-06-03 22:06:491 INFO  TestBase:64 - ***gotoLoginPage***TestStarted***
+2021-06-03 22:06:807 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 22:06:113 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 22:06:244 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 22:06:413 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 22:06:582 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:730 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 22:06:930 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 22:06:111 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:251 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 22:06:298 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:216 INFO  TestBase:80 - ***gotoLoginPage***Finished***
+2021-06-03 22:06:507 INFO  TestBase:64 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 22:06:509 INFO  LoginPage:98 - Entering registration email as => 1622731350509@gmail.com
+2021-06-03 22:06:110 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:52 INFO  TestBase:80 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 22:06:205 INFO  TestBase:64 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 22:06:225 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 22:06:43 INFO  TestBase:80 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 22:06:174 INFO  TestBase:64 - ***gotoRegistrationPage***TestStarted***
+2021-06-03 22:06:333 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-03 22:06:476 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 22:06:939 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 22:06:295 INFO  TestBase:80 - ***gotoRegistrationPage***Finished***
+2021-06-03 22:06:444 INFO  TestBase:64 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 22:06:614 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 22:06:871 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 22:06:871 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-03 22:06:357 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-03 22:06:53 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-03 22:06:587 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-03 22:06:587 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-03 22:06:316 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 22:06:415 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 22:06:274 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 22:06:347 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 22:06:737 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 22:06:879 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 22:06:03 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-03 22:06:261 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 22:06:527 INFO  TestBase:80 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 22:06:658 INFO  TestBase:64 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 22:06:658 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-03 22:06:859 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-03 22:06:91 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-03 22:06:752 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 22:06:53 INFO  RegistrationPage:210 - Entering Address as => 123 Eric Avenue
+2021-06-03 22:06:357 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-03 22:06:632 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-03 22:06:954 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-03 22:06:392 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 22:06:394 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-03 22:06:752 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-03 22:06:753 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 22:06:994 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 22:06:994 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 22:06:435 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-03 22:06:763 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-03 22:06:220 INFO  RegistrationPage:291 - Entering Address Alias as => MyMiami Address
+2021-06-03 22:06:845 INFO  TestBase:80 - ***enterUserAddressDetails***Finished***
+2021-06-03 22:06:30 INFO  TestBase:64 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 22:06:246 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-03 22:06:347 INFO  TestBase:80 - ***clickOnRegisterBtn***Finished***
+2021-06-03 22:06:460 INFO  TestBase:64 - ***gotoAccountPage***TestStarted***
+2021-06-03 22:06:683 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:821 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:46 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 22:06:83 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 22:06:346 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:384 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:578 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 22:06:632 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 22:06:917 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 22:06:964 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 22:06:202 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 22:06:403 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:534 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:534 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:350 INFO  TestBase:80 - ***gotoAccountPage***Finished***
+2021-06-03 22:06:685 INFO  TestBase:64 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 22:06:893 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-03 22:06:182 INFO  TestBase:80 - ***clickOnLogoutLink***Finished***
+2021-06-03 22:06:305 INFO  TestBase:64 - ***backHomePage***TestStarted***
+2021-06-03 22:06:950 INFO  TestBase:80 - ***backHomePage***Finished***
+2021-06-03 22:06:974 INFO  TestBase:127 - Initialize Web driver: 1070501849
+2021-06-03 22:06:31 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-03 22:06:33 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-03 22:06:82 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-03 22:06:107 INFO  WaitHelper:108 - page is loaded........
+2021-06-03 22:06:483 INFO  TestBase:64 - ***gotoHomePage***TestStarted***
+2021-06-03 22:06:301 INFO  TestBase:80 - ***gotoHomePage***Finished***
+2021-06-03 22:06:723 INFO  TestBase:64 - ***click0nLoginLink***TestStarted***
+2021-06-03 22:06:871 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-03 22:06:188 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-03 22:06:209 INFO  TestBase:80 - ***click0nLoginLink***Finished***
+2021-06-03 22:06:549 INFO  TestBase:64 - ***gotoLoginPage***TestStarted***
+2021-06-03 22:06:985 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-03 22:06:527 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-03 22:06:775 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-03 22:06:52 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-03 22:06:409 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:764 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-03 22:06:174 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-03 22:06:475 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-03 22:06:718 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-03 22:06:818 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:697 INFO  TestBase:80 - ***gotoLoginPage***Finished***
+2021-06-03 22:06:87 INFO  TestBase:64 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-03 22:06:102 INFO  LoginPage:98 - Entering registration email as => 1622731688102@gmail.com
+2021-06-03 22:06:510 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:64 INFO  TestBase:80 - ***enterRegistrationEmailAddress***Finished***
+2021-06-03 22:06:543 INFO  TestBase:64 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-03 22:06:558 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-03 22:06:29 INFO  TestBase:80 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-03 22:06:272 INFO  TestBase:64 - ***gotoRegistrationPage***TestStarted***
+2021-06-03 22:06:324 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-03 22:06:544 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-03 22:06:909 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-03 22:06:381 INFO  TestBase:80 - ***gotoRegistrationPage***Finished***
+2021-06-03 22:06:737 INFO  TestBase:64 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-03 22:06:186 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-03 22:06:979 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-03 22:06:979 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-03 22:06:794 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-03 22:06:16 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-03 22:06:968 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-03 22:06:969 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-03 22:06:155 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-03 22:06:332 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-03 22:06:536 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-03 22:06:701 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-03 22:06:465 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-03 22:06:736 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-03 22:06:981 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-03 22:06:401 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-03 22:06:978 INFO  TestBase:80 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-03 22:06:213 INFO  TestBase:64 - ***enterUserAddressDetails***TestStarted***
+2021-06-03 22:06:218 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-03 22:06:719 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-03 22:06:308 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-03 22:06:451 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-03 22:06:122 INFO  RegistrationPage:210 - Entering Address as => 123 Eric Avenue
+2021-06-03 22:06:709 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-03 22:06:276 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-03 22:06:759 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-03 22:06:883 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-03 22:06:884 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-03 22:06:712 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-03 22:06:713 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-03 22:06:253 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-03 22:06:255 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-03 22:06:951 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-03 22:06:696 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-03 22:06:938 INFO  RegistrationPage:291 - Entering Address Alias as => MyMiami Address
+2021-06-03 22:06:143 INFO  TestBase:80 - ***enterUserAddressDetails***Finished***
+2021-06-03 22:06:888 INFO  TestBase:64 - ***clickOnRegisterBtn***TestStarted***
+2021-06-03 22:06:417 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-03 22:06:149 INFO  TestBase:80 - ***clickOnRegisterBtn***Finished***
+2021-06-03 22:06:673 INFO  TestBase:64 - ***gotoAccountPage***TestStarted***
+2021-06-03 22:06:260 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:371 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:696 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-03 22:06:810 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-03 22:06:155 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:219 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-03 22:06:622 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-03 22:06:722 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-03 22:06:248 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-03 22:06:327 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-03 22:06:739 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-03 22:06:281 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:505 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-03 22:06:506 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-03 22:06:11 INFO  TestBase:80 - ***gotoAccountPage***Finished***
+2021-06-03 22:06:344 INFO  TestBase:64 - ***clickOnLogoutLink***TestStarted***
+2021-06-03 22:06:815 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-03 22:06:276 INFO  TestBase:80 - ***clickOnLogoutLink***Finished***
+2021-06-03 22:06:480 INFO  TestBase:64 - ***backHomePage***TestStarted***
+2021-06-03 22:06:760 INFO  TestBase:80 - ***backHomePage***Finished***
+2021-06-04 01:06:231 INFO  TestBase:127 - Initialize Web driver: 596706728
+2021-06-04 01:06:418 INFO  WaitHelper:22 - WaitHelper object created..
+2021-06-04 01:06:423 INFO  WaitHelper:26 - Implicit Wait has been set to: 120
+2021-06-04 01:06:562 INFO  WaitHelper:106 - waiting for page to load for : SECONDS seconds
+2021-06-04 01:06:591 INFO  WaitHelper:108 - page is loaded........
+2021-06-04 01:06:247 INFO  TestBase:64 - ***gotoHomePage***TestStarted***
+2021-06-04 01:06:72 INFO  TestBase:80 - ***gotoHomePage***Finished***
+2021-06-04 01:06:697 INFO  TestBase:64 - ***click0nLoginLink***TestStarted***
+2021-06-04 01:06:152 INFO  HeaderNavPage:51 - WebDriver waiting for element visibility....
+2021-06-04 01:06:368 INFO  HeaderNavPage:54 - Clicked on Signin Link => Sign in
+2021-06-04 01:06:12 INFO  TestBase:80 - ***click0nLoginLink***Finished***
+2021-06-04 01:06:208 INFO  TestBase:64 - ***gotoLoginPage***TestStarted***
+2021-06-04 01:06:449 INFO  VerificationHelper:21 - element is Displayed => ALREADY REGISTERED?
+2021-06-04 01:06:814 INFO  LoginPage:54 - Authentication Header Txt is displayed as => true
+2021-06-04 01:06:973 INFO  VerificationHelper:21 - element is Displayed => AUTHENTICATION
+2021-06-04 01:06:158 INFO  LoginPage:116 - Authentication Txt as => AUTHENTICATION
+2021-06-04 01:06:337 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-04 01:06:506 INFO  LoginPage:125 - Create An Account Txt as => Please enter your email address to create an account.
+2021-06-04 01:06:738 INFO  LoginPage:83 - Already Registered Txt as => Forgot your password?
+2021-06-04 01:06:907 INFO  VerificationHelper:21 - element is Displayed => Please enter your email address to create an account.
+2021-06-04 01:06:98 INFO  LoginPage:133 - Please Enter Your Email Txt => Please enter your email address to create an account.
+2021-06-04 01:06:156 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-04 01:06:214 INFO  TestBase:80 - ***gotoLoginPage***Finished***
+2021-06-04 01:06:546 INFO  TestBase:64 - ***enterRegistrationEmailAddress***TestStarted***
+2021-06-04 01:06:548 INFO  LoginPage:98 - Entering registration email as => 1622740749548@gmail.com
+2021-06-04 01:06:224 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-04 01:06:234 INFO  TestBase:80 - ***enterRegistrationEmailAddress***Finished***
+2021-06-04 01:06:468 INFO  TestBase:64 - ***clickOnCreateAnAccountBtn***TestStarted***
+2021-06-04 01:06:492 INFO  LoginPage:106 - click On Create An Account Btn
+2021-06-04 01:06:724 INFO  TestBase:80 - ***clickOnCreateAnAccountBtn***Finished***
+2021-06-04 01:06:854 INFO  TestBase:64 - ***gotoRegistrationPage***TestStarted***
+2021-06-04 01:06:479 INFO  RegistrationPage:41 - CREATE AN ACCOUNT is => true
+2021-06-04 01:06:591 INFO  RegistrationPage:49 - Your Personal Information Section Txt is displayed as => true
+2021-06-04 01:06:07 INFO  RegistrationPage:180 - Your Address Section Txt is displayed as => YOUR ADDRESS
+2021-06-04 01:06:318 INFO  TestBase:80 - ***gotoRegistrationPage***Finished***
+2021-06-04 01:06:511 INFO  TestBase:64 - ***enterUserPersonalInfomationDetails***TestStarted***
+2021-06-04 01:06:718 INFO  RegistrationPage:58 - Checking Mr. Radio Btn as => Mr.
+2021-06-04 01:06:952 INFO  CustomDrivers:480 - Element :: Mr Radio Btn selected.. is already selected
+2021-06-04 01:06:954 INFO  RegistrationPage:75 - Entering firstName as => FirstName
+2021-06-04 01:06:439 INFO  RegistrationPage:83 - Entering LastName as => LastName
+2021-06-04 01:06:136 INFO  RegistrationPage:95 - Entering password as => Password
+2021-06-04 01:06:704 INFO  RegistrationPage:108 - Day DropDown is enabled => true
+2021-06-04 01:06:705 INFO  RegistrationPage:109 - Selecting date as => 10
+2021-06-04 01:06:645 INFO  CustomDrivers:480 - Element :: Is Day DropDown selected => is already selected
+2021-06-04 01:06:756 INFO  RegistrationPage:118 - Month DropDown is enabled as =>  true
+2021-06-04 01:06:617 INFO  CustomDrivers:480 - Element :: Is Month DropDown selected => is already selected
+2021-06-04 01:06:710 INFO  RegistrationPage:130 - Year DropDown is enabled as => true
+2021-06-04 01:06:212 INFO  CustomDrivers:480 - Element :: Is Year DropDown selected => is already selected
+2021-06-04 01:06:479 INFO  RegistrationPage:152 - SignUp Newsletter Txt displayed as => Sign up for our newsletter!
+2021-06-04 01:06:664 INFO  RegistrationPage:160 - Checked on SpecialOffer => true
+2021-06-04 01:06:974 INFO  CustomDrivers:480 - Element :: Is Year Checked =>  is already selected
+2021-06-04 01:06:361 INFO  TestBase:80 - ***enterUserPersonalInfomationDetails***Finished***
+2021-06-04 01:06:537 INFO  TestBase:64 - ***enterUserAddressDetails***TestStarted***
+2021-06-04 01:06:541 INFO  RegistrationPage:185 - Entering Your Address FirstName as => FirstName
+2021-06-04 01:06:846 INFO  RegistrationPage:188 - Clearing Your Address FirstName field
+2021-06-04 01:06:185 INFO  RegistrationPage:195 - Entering Your Address LastName as => LastName
+2021-06-04 01:06:222 INFO  RegistrationPage:204 - Entering Your Address Company as => DataPalace Studio
+2021-06-04 01:06:623 INFO  RegistrationPage:210 - Entering Address as => 123 Eric Avenue
+2021-06-04 01:06:30 INFO  RegistrationPage:224 - Entering address2 as => 23rd District
+2021-06-04 01:06:490 INFO  RegistrationPage:230 - Entering your Address City as => Miami
+2021-06-04 01:06:812 INFO  RegistrationPage:238 - Entering Your Address State as => Florida
+2021-06-04 01:06:343 INFO  CustomDrivers:480 - Element :: Is Address State selected =>  is already selected
+2021-06-04 01:06:345 INFO  RegistrationPage:246 - Entering Your Address PostCode as => 77077
+2021-06-04 01:06:908 INFO  RegistrationPage:254 - Country DropDown is enabled as =>  true
+2021-06-04 01:06:909 INFO  RegistrationPage:255 - Selecting Your Address Country Dropdown Btn as => United States
+2021-06-04 01:06:224 INFO  CustomDrivers:480 - Element :: Is Address Country selected =>  is already selected
+2021-06-04 01:06:224 INFO  RegistrationPage:264 - Entering additionalInformation as => Deliver at the Gate
+2021-06-04 01:06:659 INFO  RegistrationPage:277 - Entering homePhone => 213-213-2444
+2021-06-04 01:06:197 INFO  RegistrationPage:283 - Entering mobilePhone as => 213-213-2555
+2021-06-04 01:06:811 INFO  RegistrationPage:291 - Entering Address Alias as => MyMiami Address
+2021-06-04 01:06:805 INFO  TestBase:80 - ***enterUserAddressDetails***Finished***
+2021-06-04 01:06:162 INFO  TestBase:64 - ***clickOnRegisterBtn***TestStarted***
+2021-06-04 01:06:916 INFO  RegistrationPage:300 - *Required field is displayed as => true
+2021-06-04 01:06:690 INFO  TestBase:80 - ***clickOnRegisterBtn***Finished***
+2021-06-04 01:06:992 INFO  TestBase:64 - ***gotoAccountPage***TestStarted***
+2021-06-04 01:06:236 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-04 01:06:337 INFO  AccountPage:39 - Welcome Account Txt displayed as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-04 01:06:686 INFO  VerificationHelper:21 - element is Displayed => MY ACCOUNT
+2021-06-04 01:06:739 INFO  AccountPage:48 - My AccountText displayed as => MY ACCOUNT
+2021-06-04 01:06:31 INFO  VerificationHelper:21 - element is Displayed => ORDER HISTORY AND DETAILS
+2021-06-04 01:06:102 INFO  AccountPage:57 - My Order History And Details Link displayed as => ORDER HISTORY AND DETAILS
+2021-06-04 01:06:372 INFO  VerificationHelper:21 - element is Displayed => MY CREDIT SLIPS
+2021-06-04 01:06:434 INFO  AccountPage:66 - My CreditSlips Link displayed as => MY CREDIT SLIPS
+2021-06-04 01:06:820 INFO  VerificationHelper:21 - element is Displayed => MY ADDRESSES
+2021-06-04 01:06:873 INFO  AccountPage:76 - My Addresses Link displayed as => MY ADDRESSES
+2021-06-04 01:06:563 INFO  AccountPage:96 - My Wishlists displayed as => MY WISHLISTS
+2021-06-04 01:06:918 INFO  VerificationHelper:21 - element is Displayed => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-04 01:06:107 INFO  AccountPage:117 - Success welcome message as => Welcome to your account. Here you can manage all of your personal information and orders.
+2021-06-04 01:06:109 INFO  TestBase:161 - capturing ui navigation screen...
+2021-06-04 01:06:121 INFO  TestBase:80 - ***gotoAccountPage***Finished***
+2021-06-04 01:06:489 INFO  TestBase:64 - ***clickOnLogoutLink***TestStarted***
+2021-06-04 01:06:778 INFO  HeaderNavPage:78 - Clicking on Sign out Link  => Sign out
+2021-06-04 01:06:406 INFO  TestBase:80 - ***clickOnLogoutLink***Finished***
+2021-06-04 01:06:561 INFO  TestBase:64 - ***backHomePage***TestStarted***
+2021-06-04 01:06:343 INFO  TestBase:80 - ***backHomePage***Finished***

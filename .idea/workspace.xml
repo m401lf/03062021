@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1185f37f-3913-45a7-87b9-7b8413a3e104" name="Default Changelist" comment="see1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Always" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/m401lf/30-05-2021.git" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1t6sJKyiAgwkLmRkVesvJtymBkT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="automationpractice.tests.registration" />
+      <recent name="automationpractice.tests.login" />
+      <recent name="automationpractice.tests.register" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\House\IdeaProjects\30-05-2021\src\test\java\Spacial_elements" />
+      <recent name="C:\Users\House\IdeaProjects\30-05-2021\src\test\java\ElementCollections" />
+      <recent name="C:\Users\House\IdeaProjects\30-05-2021\src\test\java\automationpractice\tests\registration" />
+      <recent name="C:\Users\House\IdeaProjects\30-05-2021" />
+      <recent name="C:\Users\House\IdeaProjects\30-05-2021\src\main\java\resources\configfile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationTest">
+    <configuration name="Basic_Get_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.BasicMethods.Basic_Get_Methods" />
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.BasicMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_CSS_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.BasicMethods.Get_CSS_Value" />
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.BasicMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verify_Element_Exist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.BasicMethods.Verify_Element_Exist" />
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.BasicMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automationpractice.tests.Login" />
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.Login.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automationpractice.tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.registration.Registration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest" type="TestNG" nameIsGenerated="true">
+      <module name="02062021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationpractice.tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automationpractice.tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="automationpractice.tests.registration.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Basic_Get_Methods" />
+      <item itemvalue="Application.Get_CSS_Value" />
+      <item itemvalue="Application.Verify_Element_Exist" />
+      <item itemvalue="TestNG.RegistrationTest" />
+      <item itemvalue="TestNG.Login" />
+      <item itemvalue="TestNG.Registration" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Login" />
+        <item itemvalue="TestNG.Registration" />
+        <item itemvalue="Application.Basic_Get_Methods" />
+        <item itemvalue="Application.Get_CSS_Value" />
+        <item itemvalue="Application.Verify_Element_Exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1185f37f-3913-45a7-87b9-7b8413a3e104" name="Default Changelist" comment="" />
+      <created>1622100800541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622100800541</updated>
+      <workItem from="1622100807249" duration="658000" />
+      <workItem from="1622283104189" duration="41234000" />
+      <workItem from="1622400239824" duration="70909000" />
+      <workItem from="1622581157419" duration="824000" />
+      <workItem from="1622582203104" duration="3188000" />
+      <workItem from="1622586030333" duration="9801000" />
+      <workItem from="1622662506672" duration="4254000" />
+      <workItem from="1622675838421" duration="24963000" />
+      <workItem from="1622739422438" duration="410000" />
+      <workItem from="1622740482323" duration="427000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit as at Tuesady 01-06-2021">
+      <created>1622554091671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622554091671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit as at Tuesady 01-06-2021">
+      <created>1622554201189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622554201189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit as at Tuesaday 01-06-2021">
+      <created>1622573048506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622573048514</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit as at Tuesaday 01-06-2021">
+      <created>1622573441081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622573441081</updated>
+    </task>
+    <task id="LOCAL-00005" summary="again">
+      <created>1622583257441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622583257443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="again">
+      <created>1622583860566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622583860566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="see">
+      <created>1622584399940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622584399940</updated>
+    </task>
+    <task id="LOCAL-00008" summary="see1">
+      <created>1622584635580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622584635580</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Commit as at Tuesady 01-06-2021" />
+    <MESSAGE value="Commit as at Tuesaday 01-06-2021" />
+    <MESSAGE value="again" />
+    <MESSAGE value="see" />
+    <MESSAGE value="see1" />
+    <option name="LAST_COMMIT_MESSAGE" value="see1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="0" width="725" height="728" key="#&lt;default&gt;" timestamp="1622283226537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="0" width="725" height="728" key="#&lt;default&gt;/0.0.1366.728@0.0.1366.728" timestamp="1622283226537" />
+    <state x="235" y="0" key="#Java" timestamp="1622665125216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="235" y="0" key="#Java/0.0.1366.728@0.0.1366.728" timestamp="1622665125216" />
+    <state x="355" y="0" width="725" height="728" key="#RegisterTest_and_1_more" timestamp="1622285649026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="0" width="725" height="728" key="#RegisterTest_and_1_more/0.0.1366.728@0.0.1366.728" timestamp="1622285649026" />
+    <state x="133" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622584992512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1622584992512" />
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1622678687069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622678687069" />
+    <state x="382" y="85" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1622666826650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="382" y="85" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1622666826650" />
+    <state x="346" y="104" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622285415417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="104" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1622285415417" />
+    <state x="296" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622666838783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="296" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1622666838783" />
+    <state x="396" y="189" width="574" height="350" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622729704398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="189" width="574" height="350" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1622729704398" />
+    <state x="439" y="209" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1622666832298">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="209" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1622666832298" />
+    <state x="106" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1622544906529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="106" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1622544906529" />
+    <state x="109" y="116" key="DiffContextDialog" timestamp="1622583973747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="109" y="116" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1622583973747" />
+    <state x="444" y="38" key="FileChooserDialogImpl" timestamp="1622718411765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="38" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622718411765" />
+    <state x="295" y="152" width="618" height="245" key="Github.ShareDialog" timestamp="1622583708193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="152" width="618" height="245" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1622583708193" />
+    <state x="390" y="0" key="Github.UntrackedFilesDialog" timestamp="1622304894069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622304894069" />
+    <state width="625" height="135" key="GridCell.Tab.0.bottom" timestamp="1622740720568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="625" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622740720568" />
+    <state width="625" height="135" key="GridCell.Tab.0.center" timestamp="1622740720566">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="625" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622740720566" />
+    <state width="625" height="135" key="GridCell.Tab.0.left" timestamp="1622740720564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="625" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622740720564" />
+    <state width="625" height="135" key="GridCell.Tab.0.right" timestamp="1622740720567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="625" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622740720567" />
+    <state x="152" y="35" key="IDE.errors.dialog" timestamp="1622554183229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="152" y="35" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1622554183229" />
+    <state x="196" y="55" key="MergeDialog" timestamp="1622573342406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1622573342406" />
+    <state x="526" y="192" width="447" height="344" key="MultipleFileMergeDialog" timestamp="1622573409749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="192" width="447" height="344" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1622573409749" />
+    <state x="65" y="0" key="SettingsEditor" timestamp="1622740915963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622740915963" />
+    <state x="138" y="27" width="1045" height="674" key="Vcs.Push.Dialog.v2" timestamp="1622584650730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="138" y="27" width="1045" height="674" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1622584650730" />
+    <state x="459" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622426152285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1622426152285" />
+    <state x="443" y="92" key="git4idea.merge.GitMergeDialog" timestamp="1622375759666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="92" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1622375759666" />
+  </component>
+</project>
